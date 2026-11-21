@@ -1,0 +1,173 @@
+{
+ "createdAt": "batch-6",
+ "items": [
+  {
+   "file": "49-motion-design.jpg",
+   "idea": {
+    "categoryId": "motion-design",
+    "subcategory": "kinetic modernism",
+    "subject": "a kinetic typography frame where letters become architecture",
+    "medium": "frame from a motion design piece",
+    "aesthetic": "kinetic modernism",
+    "lighting": "rendered glow",
+    "palette": {
+     "name": "Sodium Night",
+     "hex": [
+      "#0B0D10",
+      "#151F26",
+      "#2E4A52",
+      "#C98A3E",
+      "#F2C879"
+     ]
+    },
+    "composition": "motion-blurred multiple exposure",
+    "material": "motion blur",
+    "mood": "kinetic energy",
+    "details": [
+     "trailing afterimages",
+     "dust motes suspended in light"
+    ],
+    "ratio": {
+     "label": "16:9",
+     "w": 16,
+     "h": 9
+    },
+    "prompt": "frame from a motion design piece of a kinetic typography frame where letters become architecture, motion-blurred multiple exposure, rendered glow, motion blur, kinetic modernism art direction, kinetic energy, sodium night palette (#0B0D10, #151F26, #2E4A52, #C98A3E), trailing afterimages, dust motes suspended in light, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting, directional blur trails, warm glow, no watermark, no signature",
+    "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+    "title": "Type in Motion",
+    "description": "A Kinetic Typography Frame Where Letters Become Architecture \u2014 explored as a frame from a motion design piece in a kinetic modernism key. motion blur carries the surface, while rendered glow. The sodium night palette (#0B0D10 \u00b7 #151F26 \u00b7 #2E4A52) holds the frame together; kinetic energy.",
+    "tags": [
+     "motion design concepts",
+     "kinetic",
+     "typography",
+     "frame",
+     "where",
+     "letters",
+     "become",
+     "architecture",
+     "modernism",
+     "sodium night",
+     "directional",
+     "blur",
+     "trails",
+     "warm"
+    ],
+    "novelty": 1,
+    "fingerprint": "seed-536a4d9e"
+   },
+   "prompt": "frame from a motion design piece of a kinetic typography frame where letters become architecture, motion-blurred multiple exposure, rendered glow, motion blur, kinetic modernism art direction, kinetic energy, sodium night palette (#0B0D10, #151F26, #2E4A52, #C98A3E), trailing afterimages, dust motes suspended in light, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting, directional blur trails, warm glow, no watermark, no signature"
+  },
+  {
+   "file": "50-conceptual-art.jpg",
+   "idea": {
+    "categoryId": "conceptual-art",
+    "subcategory": "poetic systems",
+    "subject": "a dictionary with every noun removed, displayed on a plinth",
+    "medium": "documentation of a conceptual gesture",
+    "aesthetic": "poetic systems",
+    "lighting": "institutional gallery lighting",
+    "palette": {
+     "name": "Bone & Graphite",
+     "hex": [
+      "#141312",
+      "#33312E",
+      "#6E6A64",
+      "#B9B2A6",
+      "#EFEAE1"
+     ]
+    },
+    "composition": "typographic proposition",
+    "material": "paper, ink and museum board",
+    "mood": "poetic unease",
+    "details": [
+     "a single pointed gesture",
+     "soft vignette"
+    ],
+    "ratio": {
+     "label": "4:5",
+     "w": 4,
+     "h": 5
+    },
+    "prompt": "documentation of a conceptual gesture of a dictionary with every noun removed, displayed on a plinth, typographic proposition, institutional gallery lighting, paper, ink and museum board, poetic systems art direction, poetic unease, bone & graphite palette (#141312, #33312E, #6E6A64, #B9B2A6), a single pointed gesture, soft vignette, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting, institutional lighting, small museum label, no watermark, no signature",
+    "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+    "title": "Missing Nouns",
+    "description": "A Dictionary With Every Noun Removed, Displayed On A Plinth \u2014 explored as a documentation of a conceptual gesture in a poetic systems key. paper, ink and museum board carries the surface, while institutional gallery lighting. The bone & graphite palette (#141312 \u00b7 #33312E \u00b7 #6E6A64) holds the frame together; poetic unease.",
+    "tags": [
+     "conceptual art",
+     "dictionary",
+     "with",
+     "every",
+     "noun",
+     "removed",
+     "displayed",
+     "plinth",
+     "poetic",
+     "systems",
+     "paper brutal",
+     "institutional",
+     "lighting",
+     "small"
+    ],
+    "novelty": 1,
+    "fingerprint": "seed-77611a6e"
+   },
+   "prompt": "documentation of a conceptual gesture of a dictionary with every noun removed, displayed on a plinth, typographic proposition, institutional gallery lighting, paper, ink and museum board, poetic systems art direction, poetic unease, bone & graphite palette (#141312, #33312E, #6E6A64, #B9B2A6), a single pointed gesture, soft vignette, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting, institutional lighting, small museum label, no watermark, no signature"
+  },
+  {
+   "file": "51-conceptual-art.jpg",
+   "prompt": "conceptual artwork of a wall repaired with gold, documented installation, clinical documentation light, text, cinematic naturalism art direction, conceptual clarity, slate bloom palette (#0C0E12, #242B36, #4F5D72, #9AA6B8), matte film rendering, condensation beads, extreme vertical 9:16 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Gold Still",
+   "categoryId": "conceptual-art",
+   "aspect": 0.5625
+  },
+  {
+   "file": "52-motion-design.jpg",
+   "prompt": "frame from a motion design piece of a typewriter effect on a monumental scale, motion-blurred multiple exposure, studio light on physical set, rendered light, analog warmth art direction, kinetic energy, sodium night palette (#0B0D10, #151F26, #2E4A52, #C98A3E), directional blur trails, anamorphic bokeh, light streaks, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Scale Memory",
+   "categoryId": "motion-design",
+   "aspect": 1.5
+  },
+  {
+   "file": "53-3d-art.jpg",
+   "prompt": "blender-style product visualization of a floating carpet of woven ribbons, arrangement of repeated forms, single dramatic rim light, iridescent film, post-internet collage art direction, dreamlike order, bone & graphite palette (#141312, #33312E, #6E6A64, #B9B2A6), natural skin texture, subsurface scattering, anamorphic bokeh, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Raw Ribbons, No. 2",
+   "categoryId": "3d-art",
+   "aspect": 1.5
+  },
+  {
+   "file": "54-abstract-art.jpg",
+   "prompt": "gestural composition of color fields meeting at a soft edge, all-over composition, raking museum light, thread, art-deco revival art direction, emotional abstraction, mauve domino palette (#100D11, #2C2230, #604867, #A98DA8), impasto ridges, specular highlights on glazed ceramic, anamorphic bokeh, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Sunken Soft, at Rest",
+   "categoryId": "abstract-art",
+   "aspect": 1.7777777777777777
+  },
+  {
+   "file": "55-brutalism.jpg",
+   "prompt": "raw concrete material study of a parking structure as cathedral, symmetrical mass against sky, dusk with orange streetlights, board-formed concrete, raw documentary art direction, raw honesty, ice & rust palette (#0C1013, #26333A, #5E7A85, #A9714B), soft halation on highlights, natural skin texture, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Soft Cathedral",
+   "categoryId": "brutalism",
+   "aspect": 1.7777777777777777
+  },
+  {
+   "file": "56-color-palettes.jpg",
+   "prompt": "color palette design of a color study of oxidized metal, flat-lay swatch grid, controlled neutral studio light, pigment powder, archival film art direction, systematic calm, saffron concrete palette (#151210, #3C332B, #7E6A4E, #D0A55B), specimen labels in mono, visible brush edges, square 1:1 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Faded Metal Surface",
+   "categoryId": "color-palettes",
+   "aspect": 1
+  },
+  {
+   "file": "57-creative-advertising.jpg",
+   "prompt": "billboard campaign mockup of a furniture ad of miniature rooms, product hero with surreal prop, dramatic single source, studio sets, raw documentary art direction, brand confidence, blood orange palette (#100B08, #3A140B, #A33110, #E2632B), product truth, specimen labels in mono, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Burnished Rooms Still",
+   "categoryId": "creative-advertising",
+   "aspect": 1.5
+  },
+  {
+   "file": "58-digital-art.jpg",
+   "prompt": "generative digital artwork of a storm frozen mid-strike, centered monumental subject, bioluminescent glow, volumetric fog, Japanese quietude art direction, cosmic melancholy, neon rice paper palette (#0A0A0C, #1B1B26, #5A49A8, #D9557E), subtle chromatic aberration, shallow depth of field falloff, extreme vertical 9:16 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Hollow Mid-Strike",
+   "categoryId": "digital-art",
+   "aspect": 0.5625
+  }
+ ]
+}
