@@ -168,7 +168,19 @@ Ingested files pass through the exact same pipeline (QA, dedupe, variants, class
 
 ---
 
-## 6 · Hosted deployment (Supabase)
+## 6 · Deploying
+
+Container-based hosts are supported out of the box (persistent volume + long-running process):
+
+```bash
+docker compose up --build     # web + agent, volumes for data/ and storage/
+```
+
+Full guide — Render / Railway / Fly / systemd, backups, cost control, protecting the studio, and the exact work Vercel requires — lives in [`docs/DEPLOY.md`](docs/DEPLOY.md).
+
+> **Vercel** is intentionally not a one-click target yet: its filesystem is ephemeral, so saved collections would vanish and the agent could not run. Vercel becomes viable with the Postgres adapter + Supabase Storage + an external worker; the migration checklist is in the deployment guide.
+
+## 7 · Hosted database (Supabase)
 
 The runtime database is the embedded SQLite store — zero configuration, fast, and the only data adapter shipped today. A validated Postgres schema for Supabase lives in `supabase/migrations/0001_init.sql` (11 tables, generated `tsvector` search column with GIN index, trigram title index, RLS policies for public read, an `infinite-media` bucket, `infinite_feed()` and `infinite_refresh_trending()` helpers). It was executed against Postgres 17 during development and verified end-to-end (FTS match, feed function, trending function).
 
@@ -185,15 +197,18 @@ See [`supabase/README.md`](supabase/README.md) for the exact steps and the migra
 
 ---
 
-## 7 · Project layout
+## 8 · Project layout
 
 ```
 db/schema.sql                  SQLite schema (canonical runtime)
+docs/DEPLOY.md                 hosting, backups, cost control, Vercel analysis
+Dockerfile / docker-compose    production image + volumes
 src/app/                       routes, API handlers, design system
 src/components/                feed, viewer, studio, collections, search
 src/lib/agent/                 brain, providers, imaging, storage, pipeline, runtime
 src/lib/repo/                  feed/search/collections/settings queries
 supabase/migrations/           Postgres schema for hosted deployments
+tests/                         agent, novelty, taxonomy and hashing tests
 scripts/                       migrate · seed-concepts · ingest · agent worker
 storage/media/                 generated assets (webp variants)
 .seed/                         curated manifest + source images
@@ -201,8 +216,8 @@ storage/media/                 generated assets (webp variants)
 
 ---
 
-## 8 · Honest status
+## 9 · Honest status
 
-* The shipped library is real AI-generated imagery produced through the ingestion pipeline (`provider: arena-studio`), with the full prompt and metadata for each image. It is a seed, not "thousands" yet — the loop, queue and budget controls are what make the library grow. Point the agent at a provider and it will keep publishing.
+* The shipped library holds **18 real AI-generated images across 8 directions**, produced through the ingestion pipeline (`provider: arena-studio`) with full prompts and metadata. It is a seed, not "thousands" yet — the loop, queue and budget controls are what make the library grow. Point the agent at a provider and it keeps publishing on its own; the 50-concept manifest in `.seed/` is the pending queue for offline generation.
 * `views` and `saves` are only incremented by real interactions; nothing is seeded with fake engagement.
 * No generation provider credentials are included. Without them the studio says so.

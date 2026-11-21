@@ -1,0 +1,11 @@
+node_modules
+.next
+.git
+data
+storage/manifests
+.seed/tmp
+.env.local
+.env*.local
+npm-debug.log*
+*.tsbuildinfo
+.DS_Store
