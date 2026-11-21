@@ -69,8 +69,8 @@ function Metric({ label, value, sub, accent }: { label: string; value: string; s
   );
 }
 
-export function StudioDashboard() {
-  const [status, setStatus] = useState<Status | null>(null);
+export function StudioDashboard({ initialStatus }: { initialStatus?: Status }) {
+  const [status, setStatus] = useState<Status | null>(initialStatus ?? null);
   const [error, setError] = useState<string | null>(null);
   const [busy, setBusy] = useState<string | null>(null);
   const [batchCount, setBatchCount] = useState(10);

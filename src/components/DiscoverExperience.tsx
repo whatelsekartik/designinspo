@@ -15,6 +15,7 @@ interface Props {
   stats: { images: number; categories: number; today: number };
   initialCategory?: string;
   initialSort?: string;
+  initialEvents?: AgentEventLine[];
 }
 
 type Sort = "newest" | "trending" | "for-you" | "random";
@@ -33,7 +34,7 @@ interface AgentEventLine {
   created_at: string;
 }
 
-export function DiscoverExperience({ initialImages, categories, aesthetics, stats, initialCategory, initialSort }: Props) {
+export function DiscoverExperience({ initialImages, categories, aesthetics, stats, initialCategory, initialSort, initialEvents }: Props) {
   const [sort, setSort] = useState<Sort>((SORTS.find((s) => s.id === initialSort)?.id ?? "newest") as Sort);
   const [category, setCategory] = useState(initialCategory && categories.some((c) => c.id === initialCategory) ? initialCategory : "all");
   const [aesthetic, setAesthetic] = useState("");
@@ -41,7 +42,7 @@ export function DiscoverExperience({ initialImages, categories, aesthetics, stat
   const [showAllCategories, setShowAllCategories] = useState(false);
   const [showFilters, setShowFilters] = useState(false);
   const [viewer, setViewer] = useState<{ id: string; list: FeedImage[] } | null>(null);
-  const [events, setEvents] = useState<AgentEventLine[]>([]);
+  const [events, setEvents] = useState<AgentEventLine[]>(initialEvents ?? []);
   const [tick, setTick] = useState(0);
 
   useEffect(() => {

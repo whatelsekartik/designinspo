@@ -1,5 +1,6 @@
 import { DiscoverExperience } from "@/components/DiscoverExperience";
 import { getAestheticCloud, getCategories, getFeed, getPublicStats } from "@/lib/repo/images";
+import { listEvents } from "@/lib/repo/settings";
 import { ensureRuntime } from "@/lib/agent/runtime";
 
 export const dynamic = "force-dynamic";
@@ -20,6 +21,7 @@ export default async function DiscoverPage({ searchParams }: { searchParams: Pro
       stats={{ images: publicStats.images, categories: publicStats.categories, today: publicStats.today }}
       initialCategory={category}
       initialSort={sort}
+      initialEvents={listEvents(12).map((e) => ({ id: e.id, kind: e.kind, message: e.message, created_at: e.created_at }))}
     />
   );
 }

@@ -1,11 +1,21 @@
 import { StudioDashboard } from "@/components/StudioDashboard";
-import { ensureRuntime } from "@/lib/agent/runtime";
+import { ensureRuntime, getAgentStatus } from "@/lib/agent/runtime";
+import { getSettings } from "@/lib/repo/settings";
 
 export const dynamic = "force-dynamic";
 
 export const metadata = { title: "AI Studio — INFINITE" };
 
-export default function StudioPage() {
+export default async function StudioPage() {
   ensureRuntime();
-  return <StudioDashboard />;
+  const status = await getAgentStatus();
+  const settings = getSettings();
+  return (
+    <StudioDashboard
+      initialStatus={{
+        ...status,
+        settings: { ...status.settings, spentCents: settings.spentCents, runtimeStartedAt: settings.runtimeStartedAt },
+      }}
+    />
+  );
 }
