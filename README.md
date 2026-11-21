@@ -41,6 +41,27 @@ A pre-seeded library ships in `storage/media` + `.seed/` so the feed is never em
 npm run seed     # (re)ingest the curated manifest through the real pipeline
 ```
 
+### Growing to 1,000+ images
+
+`grow` is the unattended, resumable path to a large library. It drives the same
+loop the Studio does, stops at the target, and refuses to run without a provider
+or a budget that covers the projection:
+
+```bash
+npm run grow -- --target 1000 --yes                 # run until 1,000 published
+npm run grow -- --target 1000 --budget 80 --yes     # raise the ceiling explicitly
+npm run grow -- --target 1000 --concurrency 4 --yes # 4 parallel generations
+npm run grow -- --target 1000 --dry-run             # write 972 prompts, spend nothing
+```
+
+At ~4 ¢/image (FLUX schnell) 1,000 images is roughly **$40**. Throughput is
+bounded by the provider and `concurrency`: at 2 concurrent requests and ~8 s per
+image the loop publishes ~10–14 images/minute, so 1,000 images is **1–2 hours of
+unattended runtime**. `Ctrl-C` is safe — every counter lives in the database, so
+re-running the same command resumes from where it stopped. `--dry-run` writes
+`.seed/prompts-1000.json` with 972 unique prompts balanced across all 32
+categories, for the external-generation workflow below.
+
 ---
 
 ## 1 · Configure an image provider
@@ -209,7 +230,7 @@ src/lib/agent/                 brain, providers, imaging, storage, pipeline, run
 src/lib/repo/                  feed/search/collections/settings queries
 supabase/migrations/           Postgres schema for hosted deployments
 tests/                         agent, novelty, taxonomy and hashing tests
-scripts/                       migrate · seed-concepts · ingest · agent worker
+scripts/                       migrate · seed-concepts · ingest · agent worker · grow
 storage/media/                 generated assets (webp variants)
 .seed/                         curated manifest + source images
 ```
@@ -218,6 +239,6 @@ storage/media/                 generated assets (webp variants)
 
 ## 9 · Honest status
 
-* The shipped library holds **18 real AI-generated images across 8 directions**, produced through the ingestion pipeline (`provider: arena-studio`) with full prompts and metadata. It is a seed, not "thousands" yet — the loop, queue and budget controls are what make the library grow. Point the agent at a provider and it keeps publishing on its own; the 50-concept manifest in `.seed/` is the pending queue for offline generation.
+* The shipped library holds **28 real AI-generated images across 13 directions**, produced through the ingestion pipeline (`provider: arena-studio`) with full prompts and metadata. It is a seed, not "thousands" yet — the loop, queue and budget controls are what make the library grow, and `npm run grow -- --target 1000 --yes` is the command that does it on a host with a provider key. The 22 remaining `arena-studio` concepts in `.seed/manifest.json` plus the generated prompt set in `.seed/prompts-1000.json` cover the offline route.
 * `views` and `saves` are only incremented by real interactions; nothing is seeded with fake engagement.
 * No generation provider credentials are included. Without them the studio says so.

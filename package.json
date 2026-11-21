@@ -16,7 +16,8 @@
     "seed": "tsx scripts/ingest.ts --manifest .seed/manifest.json --dir .seed/raw",
     "ingest": "tsx scripts/ingest.ts",
     "concepts": "tsx scripts/seed-concepts.ts",
-    "test": "tsx --test tests/*.test.ts"
+    "test": "tsx --test tests/*.test.ts",
+    "grow": "tsx scripts/grow.ts"
   },
   "dependencies": {
     "@fontsource-variable/fraunces": "^5.3.0",

@@ -157,6 +157,7 @@ npm run build && npm start`}</pre>
             </p>
             <pre className="mono mt-3 overflow-x-auto rounded-lg bg-black/40 p-3 text-[10.5px] text-paper/60">{`npm run agent           # continuous loop
 npm run agent:once 8    # drain 8 jobs, then exit
+npm run grow -- --target 1000 --yes   # run until 1,000 published
 curl -X POST /api/agent/tick   # cron-driven ticks`}</pre>
           </div>
         </div>
