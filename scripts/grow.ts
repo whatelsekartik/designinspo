@@ -98,11 +98,20 @@ function dryRun(args: Args, missing: number) {
   fs.mkdirSync(outDir, { recursive: true });
   const file = path.join(outDir, `prompts-${args.target}.json`);
   fs.writeFileSync(file, JSON.stringify({ createdAt: new Date().toISOString(), target: args.target, prompts }, null, 2));
+  // CSV for bulk tools: id,categoryId,title,aspect,prompt,negativePrompt
+  const csvFile = file.replace(/\.json$/, ".csv");
+  const cell = (v: string) => `"${v.replace(/"/g, '""')}"`;
+  fs.writeFileSync(
+    csvFile,
+    ["id,categoryId,title,aspect,prompt,negativePrompt"]
+      .concat(prompts.map((p, i) => [i + 1, p.categoryId, p.title, p.aspect.toFixed(2), p.prompt, p.negativePrompt].map((v) => cell(String(v))).join(",")))
+      .join("\n") + "\n",
+  );
   const unique = new Set(prompts.map((p) => p.prompt)).size;
   console.log(`\n  Dry run — no provider calls, no spend.`);
   console.log(`  ${prompts.length} prompts across ${Object.keys(perCategory).length} categories (${unique} unique).`);
   console.log(`  Spread: ${Object.entries(perCategory).map(([k, v]) => `${k} ${v}`).join(" · ")}`);
-  console.log(`  Written to ${path.relative(process.cwd(), file)}`);
+  console.log(`  Written to ${path.relative(process.cwd(), file)} (+ .csv for bulk tools)`);
   console.log(`  Generate them externally, then: npm run ingest -- --manifest ${path.relative(process.cwd(), file)} --dir <folder>\n`);
 }
 

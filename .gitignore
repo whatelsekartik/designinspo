@@ -14,3 +14,4 @@ storage/manifests/*
 .DS_Store
 npm-debug.log*
 .seed/prompts-*.json
+.seed/prompts-*.csv
