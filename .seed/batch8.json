@@ -1,0 +1,75 @@
+{
+ "createdAt": "batch-8",
+ "items": [
+  {
+   "file": "69-minimalism.jpg",
+   "prompt": "minimalist composition of a ladder leaning against nothing, vast negative space with tiny focal point, flat diffuse grey, raw plaster, emphatic emptiness art direction, stillness, warm concrete palette (#1A1613, #4A4038, #8C7B6B, #C4B5A2), shallow depth of field falloff, anamorphic bokeh, warm color grading with lifted shadows, square 1:1 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Salt Nothing Field",
+   "categoryId": "minimalism",
+   "aspect": 1
+  },
+  {
+   "file": "70-streetwear.jpg",
+   "prompt": "streetwear editorial photograph of a night shot in a convenience store aisle, candid motion shot, hard midday sun on concrete, nylon ripstop, matte industrial futurism art direction, defiant cool, sodium night palette (#0B0D10, #151F26, #2E4A52, #C98A3E), matte film rendering, garment-dyed fading, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Store / Matte",
+   "categoryId": "streetwear",
+   "aspect": 1.5
+  },
+  {
+   "file": "71-3d-art.jpg",
+   "prompt": "3D render of a landscape built from paper folds, close-up material macro, caustic patterns from glass, soft clay, low-fi photocopy art direction, dreamlike order, mauve domino palette (#100D11, #2C2230, #604867, #A98DA8), subtle imperfections in the surface, wet surfaces catching light, tall 2:3 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Paper Composition",
+   "categoryId": "3d-art",
+   "aspect": 0.6666666666666666
+  },
+  {
+   "file": "72-abstract-art.jpg",
+   "prompt": "material abstraction photograph of a torn surface revealing another color, centered color block, flat documentation light, graphite, sun-bleached nostalgia art direction, emotional abstraction, ember dusk palette (#0F0B09, #3B1E14, #B4573B, #E8935B), soft vignette, canvas weave, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Felted Another",
+   "categoryId": "abstract-art",
+   "aspect": 0.8
+  },
+  {
+   "file": "73-branding.jpg",
+   "prompt": "identity application mockup of a high-jewelry identity in blind emboss and foil, in-situ signage, warm tungsten on packaging, matte foil, art-deco revival art direction, understated luxury, terra firma palette (#161009, #3D2A18, #7A5230, #B98A55), monogram repeat pattern, risograph misregistration, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Dusk Identity, at Dusk",
+   "categoryId": "branding",
+   "aspect": 1.5
+  },
+  {
+   "file": "74-brutalism.jpg",
+   "prompt": "brutalist graphic design of a typeface printed as poured concrete, symmetrical mass against sky, hard overcast light with no warmth, raw plaster, Japanese quietude art direction, austere power, paper brutal palette (#111111, #2A2A2A, #6A6A66, #BDBDB4), wet surfaces catching light, subtle chromatic aberration, water staining, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Concrete / Japanese",
+   "categoryId": "brutalism",
+   "aspect": 1.7777777777777777
+  },
+  {
+   "file": "75-cinematic-art.jpg",
+   "prompt": "anamorphic frame from an imagined film of a flooded cathedral interior, close-up with shallow depth, sodium vapor practicals, volumetric haze, cold futurism art direction, wondrous scale, blood orange palette (#100B08, #3A140B, #A33110, #E2632B), atmospheric depth, wet surfaces catching light, condensation beads, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Cathedral Ritual",
+   "categoryId": "cinematic-art",
+   "aspect": 1.5
+  },
+  {
+   "file": "76-color-palettes.jpg",
+   "prompt": "color palette design of a warm gradient sampled from dusk light, single accent against neutral, daylight shifting across swatches, pigment powder, sculptural surrealism art direction, systematic calm, ember dusk palette (#0F0B09, #3B1E14, #B4573B, #E8935B), visible brush edges, specimen labels in mono, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Sunken Dusk, at Dusk",
+   "categoryId": "color-palettes",
+   "aspect": 1.7777777777777777
+  },
+  {
+   "file": "77-conceptual-art.jpg",
+   "prompt": "instruction-based artwork of a chair that can only be sat on once, documented installation, clinical documentation light, paper documents, low-fi photocopy art direction, poetic unease, slate bloom palette (#0C0E12, #242B36, #4F5D72, #9AA6B8), condensation beads, anamorphic bokeh, specular highlights on glazed ceramic, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Chair Sequence",
+   "categoryId": "conceptual-art",
+   "aspect": 1.5
+  },
+  {
+   "file": "78-creative-advertising.jpg",
+   "prompt": "print advertising campaign visual of a headphones ad where the world is muted in grey, single idea centered with copy space, dramatic single source, paper craft, art-deco revival art direction, wit, amber dusk palette (#120D08, #3A2410, #8A531A, #D89A45), a single fluorescent accent, product truth, risograph misregistration, square 1:1 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "World Ritual",
+   "categoryId": "creative-advertising",
+   "aspect": 1
+  }
+ ]
+}
