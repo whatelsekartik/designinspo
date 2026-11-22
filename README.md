@@ -239,6 +239,6 @@ storage/media/                 generated assets (webp variants)
 
 ## 9 · Honest status
 
-* The shipped library holds **28 real AI-generated images across 13 directions**, produced through the ingestion pipeline (`provider: arena-studio`) with full prompts and metadata. It is a seed, not "thousands" yet — the loop, queue and budget controls are what make the library grow, and `npm run grow -- --target 1000 --yes` is the command that does it on a host with a provider key. The 22 remaining `arena-studio` concepts in `.seed/manifest.json` plus the generated prompt set in `.seed/prompts-1000.json` cover the offline route.
+* The shipped library holds **100 real AI-generated images across all 32 categories**, produced through the ingestion pipeline (`provider: arena-studio`) with full prompts and metadata. It is a seed, not "thousands" yet — the loop, queue and budget controls are what make the library grow, and `npm run grow -- --target 1000 --yes` is the command that does it on a host with a provider key. The 22 remaining `arena-studio` concepts in `.seed/manifest.json` plus the generated prompt set in `.seed/prompts-1000.json` cover the offline route.
 * `views` and `saves` are only incremented by real interactions; nothing is seeded with fake engagement.
 * No generation provider credentials are included. Without them the studio says so.
