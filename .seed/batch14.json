@@ -1,0 +1,75 @@
+{
+ "createdAt": "batch-14",
+ "items": [
+  {
+   "file": "122-photography.jpg",
+   "prompt": "art-directed photograph of a flock of birds crossing a pale sky, reflected composition in water or glass, window light falling diagonally, analog film grain, sun-bleached nostalgia art direction, melancholy warmth, rose clay palette (#1B1211, #4E2A2B, #A96A64, #D8A9A0), soft vignette, woven textile texture, anamorphic bokeh, vertical 3:4 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Pale Ritual",
+   "categoryId": "photography",
+   "aspect": 0.75
+  },
+  {
+   "file": "123-posters.jpg",
+   "prompt": "poster design of a museum poster with a sculptural photograph and a hairline frame, full-bleed typographic poster, flat scan light, screen print, psychedelic revival art direction, print romance, saffron concrete palette (#151210, #3C332B, #7E6A4E, #D0A55B), risograph misregistration, halftone dot gradient, corner pin holes, tall 2:3 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Raw Museum",
+   "categoryId": "posters",
+   "aspect": 0.6666666666666666
+  },
+  {
+   "file": "124-product-design.jpg",
+   "prompt": "studio product rendering of a hand plane reimagined as a design object, exploded view of components, warm practical light at dusk, glazed stoneware, sun-bleached nostalgia art direction, engineering calm, bone & graphite palette (#141312, #33312E, #6E6A64, #B9B2A6), specular highlights on glazed ceramic, matte film rendering, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Hand / Sun-Bleached",
+   "categoryId": "product-design",
+   "aspect": 1.7777777777777777
+  },
+  {
+   "file": "125-retro-aesthetics.jpg",
+   "prompt": "retro-style photograph of a 1970s hi-fi system flat-lay, product hero with period props, period-correct studio light, halftone print, high-end commercial art direction art direction, nostalgic pleasure, amber dusk palette (#120D08, #3A2410, #8A531A, #D89A45), natural skin texture, soft halation on highlights, color fade, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Flat-Lay Still",
+   "categoryId": "retro-aesthetics",
+   "aspect": 1.7777777777777777
+  },
+  {
+   "file": "126-streetwear.jpg",
+   "prompt": "lookbook spread of a lookbook shot in a laundromat, candid motion shot, on-camera flash at night, reflective trim, nocturnal sensuality art direction, defiant cool, citrus static palette (#0D0F0A, #2E3517, #8A9B2C, #D9D44A), subtle chromatic aberration, matte film rendering, oversized silhouette, landscape 5:4 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Still Laundromat, No. 2",
+   "categoryId": "streetwear",
+   "aspect": 1.25
+  },
+  {
+   "file": "127-typography.jpg",
+   "prompt": "photograph of physical letterforms of a monospaced grid poem, single letterform centered, raking light revealing depth, riso ink, nocturnal sensuality art direction, graphic wit, bone & graphite palette (#141312, #33312E, #6E6A64, #B9B2A6), a single fluorescent accent, specimen labels in mono, hairline serifs, square 1:1 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Ember Grid",
+   "categoryId": "typography",
+   "aspect": 1
+  },
+  {
+   "file": "128-ui-ux.jpg",
+   "prompt": "dashboard interface design of a marketplace checkout with editorial product cards, layered floating panels with parallax depth, clean studio framing of floating UI layers, matte dark surfaces, quiet tactile retro art direction, calm control, paper brutal palette (#111111, #2A2A2A, #6A6A66, #BDBDB4), shallow depth of field falloff, warm color grading with lifted shadows, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Editorial Composition",
+   "categoryId": "ui-ux",
+   "aspect": 0.8
+  },
+  {
+   "file": "129-web-design.jpg",
+   "prompt": "UI design mockup of an architecture practice's site as a single scrolling elevation drawing, full-bleed image with overlaid type, soft ambient glow from the screen, glassmorphic panels, maximalist folk ornament art direction, editorial luxury, warm concrete palette (#1A1613, #4A4038, #8C7B6B, #C4B5A2), precise registration marks, torn paper edges, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Site Field",
+   "categoryId": "web-design",
+   "aspect": 1.5
+  },
+  {
+   "file": "130-3d-art.jpg",
+   "prompt": "octane-style CGI still of a terrarium of impossible plants, isometric diorama, warm HDRI studio with softboxes, translucent resin, Japanese quietude art direction, dreamlike order, saffron concrete palette (#151210, #3C332B, #7E6A4E, #D0A55B), fine 35mm grain, shallow depth of field falloff, vertical 3:4 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Plants System",
+   "categoryId": "3d-art",
+   "aspect": 0.75
+  },
+  {
+   "file": "131-abstract-art.jpg",
+   "prompt": "gestural composition of a field of warm overlapping brushstrokes, centered color block, flat documentation light, oil pigment, nocturnal sensuality art direction, emotional abstraction, citrus static palette (#0D0F0A, #2E3517, #8A9B2C, #D9D44A), canvas weave, subtle surface cracks, natural skin texture, tall 2:3 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Paper Brushstrokes",
+   "categoryId": "abstract-art",
+   "aspect": 0.6666666666666666
+  }
+ ]
+}
