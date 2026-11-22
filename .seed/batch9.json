@@ -1,0 +1,75 @@
+{
+ "createdAt": "batch-9",
+ "items": [
+  {
+   "file": "79-digital-art.jpg",
+   "prompt": "digital collage of a floating island with a single tree, silhouette against vast light, volumetric god rays, glass and chrome, cyber-organic art direction, digital reverie, neon rice paper palette (#0A0A0C, #1B1B26, #5A49A8, #D9557E), matte film rendering, fine 35mm grain, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Island / Cyber-Organic",
+   "categoryId": "digital-art",
+   "aspect": 1.7777777777777777
+  },
+  {
+   "file": "80-editorial-design.jpg",
+   "prompt": "editorial cover design of a spread pairing a full-bleed portrait with a narrow column, stack of issues with fanned pages, hard light with page curl shadow, uncoated text paper, quiet editorial luxury art direction, editorial authority, olive studio palette (#12140F, #2C3324, #5E6B47, #A9B08A), precise registration marks, specimen labels in mono, halftone dot gradient, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Amber Spread",
+   "categoryId": "editorial-design",
+   "aspect": 0.8
+  },
+  {
+   "file": "81-experimental-design.jpg",
+   "prompt": "generative art composition of an archive of imagined extinct objects, isolated artifact on a plinth, single-source experimental light, bent steel, maximalist folk ornament art direction, provocative curiosity, ultraviolet ink palette (#0B0813, #241447, #5230A6, #9C7BE0), anamorphic bokeh, specular highlights on glazed ceramic, matte film rendering, square 1:1 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Long Objects",
+   "categoryId": "experimental-design",
+   "aspect": 1
+  },
+  {
+   "file": "82-fashion.jpg",
+   "prompt": "runway photograph of a glove and jewelry still life, backstage candid, soft window light on skin, sheer organza, cinematic naturalism art direction, romantic tension, oxblood paper palette (#221413, #5B2126, #9C3B3F, #D9B4A0), restrained styling, natural skin texture, vertical 3:4 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Raw Still",
+   "categoryId": "fashion",
+   "aspect": 0.75
+  },
+  {
+   "file": "83-futurism.jpg",
+   "prompt": "science-fiction environmental concept of a wearable that visualizes air quality, human-scale in vast infrastructure, sun through atmosphere haze, grown mineral, raw documentary art direction, sublime scale, cobalt signal palette (#080C16, #13224A, #2D4EA8, #7C93D8), fine 35mm grain, specular highlights on glazed ceramic, vertical 3:4 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Quality Object",
+   "categoryId": "futurism",
+   "aspect": 0.75
+  },
+  {
+   "file": "84-graphic-design.jpg",
+   "prompt": "flat graphic design composition of a gallery's fold-out floor plan as a design object, centered poster on a wall with shadow, flat even studio light, spot color overprint, post-digital print art direction, intellectual rigor, oxblood paper palette (#221413, #5B2126, #9C3B3F, #D9B4A0), halftone dot gradient, a single fluorescent accent, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Burnished Plan",
+   "categoryId": "graphic-design",
+   "aspect": 0.8
+  },
+  {
+   "file": "85-illustration.jpg",
+   "prompt": "editorial illustration of a hand holding a map of impossible places, vignette with textured border, glowing focal light, screen print, editorial modernism art direction, melancholic warmth, rose clay palette (#1B1211, #4E2A2B, #A96A64, #D8A9A0), woven textile texture, warm color grading with lifted shadows, matte film rendering, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Soft Hand",
+   "categoryId": "illustration",
+   "aspect": 0.8
+  },
+  {
+   "file": "86-industrial-design.jpg",
+   "prompt": "prototype photograph of a workshop stool engineered from one tube, three-quarter hero view, workshop daylight with fluorescent spill, powder-coated steel, post-internet collage art direction, future utility, slate bloom palette (#0C0E12, #242B36, #4F5D72, #9AA6B8), specular highlights on glazed ceramic, condensation beads, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Stool / Post-Internet",
+   "categoryId": "industrial-design",
+   "aspect": 1.5
+  },
+  {
+   "file": "87-landscapes.jpg",
+   "prompt": "landscape photograph of a forested valley filled with fog, minimal horizon with vast sky, long exposure dusk, water, monastic restraint art direction, sublime scale, sand & ink palette (#100F0C, #2B2A22, #6B6552, #C9BD9E), fine 35mm grain, anamorphic bokeh, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Paper Fog",
+   "categoryId": "landscapes",
+   "aspect": 1.5
+  },
+  {
+   "file": "88-logo-concepts.jpg",
+   "prompt": "vector mark rendered on paper of a flame-like mark reduced to three curves, mark at large scale bleeding off canvas, even document light, engraved glass, low-fi photocopy art direction, quiet confidence, amber dusk palette (#120D08, #3A2410, #8A531A, #D89A45), hand-inked edges, delicate paper texture, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Mark System",
+   "categoryId": "logo-concepts",
+   "aspect": 0.8
+  }
+ ]
+}
