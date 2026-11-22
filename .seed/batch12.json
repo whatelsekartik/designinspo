@@ -1,0 +1,75 @@
+{
+ "createdAt": "batch-12",
+ "items": [
+  {
+   "file": "102-brutalism.jpg",
+   "prompt": "brutalist web layout of a mass-housing block against a grey sky, shadow-cut geometric crop, hard overcast light with no warmth, raw plaster, neo-brutalist utility art direction, austere power, warm concrete palette (#1A1613, #4A4038, #8C7B6B, #C4B5A2), warm color grading with lifted shadows, shallow depth of field falloff, wet surfaces catching light, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Ember Grey",
+   "categoryId": "brutalism",
+   "aspect": 1.5
+  },
+  {
+   "file": "103-cinematic-art.jpg",
+   "prompt": "key art frame of two strangers on a night train platform, symmetrical one-point perspective, single hard key with deep shadow, 35mm grain, neo-brutalist utility art direction, wondrous scale, teal cinema palette (#070F12, #0F2A30, #1F5A5F, #C08A4E), natural skin texture, wet surfaces catching light, fine 35mm grain, square 1:1 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Sodium Train Fragment",
+   "categoryId": "cinematic-art",
+   "aspect": 1
+  },
+  {
+   "file": "104-color-palettes.jpg",
+   "prompt": "chromatic study of color chips fanned across a table, swatches with shadows, controlled neutral studio light, pigment powder, Japanese quietude art direction, warmth, ember dusk palette (#0F0B09, #3B1E14, #B4573B, #E8935B), visible brush edges, risograph misregistration, subtle hue shifts, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Across / Japanese",
+   "categoryId": "color-palettes",
+   "aspect": 0.8
+  },
+  {
+   "file": "105-conceptual-art.jpg",
+   "prompt": "instruction-based artwork of a map of a city drawn from memory, typographic proposition, gallery lighting, paper documents, nocturnal sensuality art direction, poetic unease, warm concrete palette (#1A1613, #4A4038, #8C7B6B, #C4B5A2), natural skin texture, matte film rendering, fine 35mm grain, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Paper Memory, at Rest",
+   "categoryId": "conceptual-art",
+   "aspect": 1.7777777777777777
+  },
+  {
+   "file": "106-creative-advertising.jpg",
+   "prompt": "print advertising campaign visual of a watch face made of still water, single idea centered with copy space, clean commercial lighting, studio sets, matte industrial futurism art direction, wit, cobalt signal palette (#080C16, #13224A, #2D4EA8, #7C93D8), torn paper edges, delicate paper texture, vertical 3:4 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Watch Object",
+   "categoryId": "creative-advertising",
+   "aspect": 0.75
+  },
+  {
+   "file": "107-digital-art.jpg",
+   "prompt": "digital collage of a city skyline reflected in a still ocean, macro detail of a generative pattern, bioluminescent glow, particle clouds, art-deco revival art direction, digital reverie, ultraviolet ink palette (#0B0813, #241447, #5230A6, #9C7BE0), soft vignette, shallow depth of field falloff, vertical 3:4 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Still Still",
+   "categoryId": "digital-art",
+   "aspect": 0.75
+  },
+  {
+   "file": "108-editorial-design.jpg",
+   "prompt": "editorial cover design of a fashion feature with type wrapping a silhouette, double-page spread laid flat, soft daylight on the page, matte coated stock, luxury sports editorial art direction, editorial authority, olive studio palette (#12140F, #2C3324, #5E6B47, #A9B08A), hand-inked edges, a single fluorescent accent, square 1:1 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Feature Field",
+   "categoryId": "editorial-design",
+   "aspect": 1
+  },
+  {
+   "file": "109-experimental-design.jpg",
+   "prompt": "mixed-media installation photograph of a garment grown rather than sewn, documented process sequence, controlled gallery lighting, bio-fabricated composites, warm minimalism art direction, systems poetry, ultraviolet ink palette (#0B0813, #241447, #5230A6, #9C7BE0), subtle chromatic aberration, annotation labels, evidence of process, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Than Object",
+   "categoryId": "experimental-design",
+   "aspect": 1.7777777777777777
+  },
+  {
+   "file": "110-fashion.jpg",
+   "prompt": "fashion editorial photograph of a tailoring detail of a hand-padded shoulder, full-body editorial stance, hard sunlight with crisp shadow, heavy wool, luxury sports editorial art direction, confident elegance, oxblood paper palette (#221413, #5B2126, #9C3B3F, #D9B4A0), dust motes suspended in light, natural skin texture, restrained styling, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Hand Index",
+   "categoryId": "fashion",
+   "aspect": 0.8
+  },
+  {
+   "file": "111-futurism.jpg",
+   "prompt": "futuristic concept rendering of a vertical farm embedded in a tower facade, wide environmental rendering, cool ambient with warm accents, grown mineral, quiet sci-fi art direction, quiet wonder, slate bloom palette (#0C0E12, #242B36, #4F5D72, #9AA6B8), shallow depth of field falloff, specular highlights on glazed ceramic, woven textile texture, vertical 3:4 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Tower Study",
+   "categoryId": "futurism",
+   "aspect": 0.75
+  }
+ ]
+}

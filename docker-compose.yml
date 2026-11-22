@@ -1,0 +1,36 @@
+# ── INFINITE — web + worker with persistent state ────────────────────
+#   docker compose up --build
+#
+# Both services share ./data (SQLite) and ./storage (media). The web
+# container hosts the agent loop; the worker is commented out because
+# only one process should drive the queue unless you prefer splitting
+# them (see docs/DEPLOY.md).
+
+services:
+  web:
+    build: .
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env.local
+    environment:
+      AGENT_AUTOSTART: "true"
+      DATA_DIR: /app/data
+      MEDIA_DIR: /app/storage/media
+    volumes:
+      - ./data:/app/data
+      - ./storage:/app/storage
+    restart: unless-stopped
+
+  # worker:
+  #   build: .
+  #   command: ["npx", "tsx", "scripts/agent.ts"]
+  #   env_file: [.env.local]
+  #   environment:
+  #     AGENT_AUTOSTART: "false"
+  #     DATA_DIR: /app/data
+  #     MEDIA_DIR: /app/storage/media
+  #   volumes:
+  #     - ./data:/app/data
+  #     - ./storage:/app/storage
+  #   restart: unless-stopped

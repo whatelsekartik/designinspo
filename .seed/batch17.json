@@ -1,0 +1,75 @@
+{
+ "createdAt": "batch-17",
+ "items": [
+  {
+   "file": "151-motion-design.jpg",
+   "prompt": "frame from a motion design piece of a liquid morph between two shapes, single frame with implied movement, projected light, rendered light, low-fi photocopy art direction, playful rhythm, neon rice paper palette (#0A0A0C, #1B1B26, #5A49A8, #D9557E), soft halation on highlights, fine 35mm grain, square 1:1 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Two Interval",
+   "categoryId": "motion-design",
+   "aspect": 1
+  },
+  {
+   "file": "152-nature.jpg",
+   "prompt": "botanical study of an orchid photographed as architecture, vast landscape with tiny detail, early morning mist light, mineral surfaces, monastic restraint art direction, quiet reverence, olive studio palette (#12140F, #2C3324, #5E6B47, #A9B08A), fine hairs on stems, specular highlights on glazed ceramic, extreme vertical 9:16 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Amber Architecture Composition",
+   "categoryId": "nature",
+   "aspect": 0.5625
+  },
+  {
+   "file": "153-packaging.jpg",
+   "prompt": "product packaging flat-lay of a perfume box with a magnetic folded closure, family of products in a row, shelf lighting, washi paper, slick tech optimism art direction, considered sustainability, sand & ink palette (#100F0C, #2B2A22, #6B6552, #C9BD9E), torn paper edges, delicate paper texture, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Folded Interval",
+   "categoryId": "packaging",
+   "aspect": 0.8
+  },
+  {
+   "file": "154-photography.jpg",
+   "prompt": "art-directed photograph of a horse's breath in cold morning air, tight environmental portrait, overcast diffusion, chrome highlights, quiet documentary art direction, reverie, ember dusk palette (#0F0B09, #3B1E14, #B4573B, #E8935B), dust in the light, natural skin texture, soft vignette, vertical 3:4 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Morning Fragment",
+   "categoryId": "photography",
+   "aspect": 0.75
+  },
+  {
+   "file": "155-posters.jpg",
+   "prompt": "photograph of a poster on a wall of a retrospective poster of concentric circles, full-bleed typographic poster, gallery wall light with soft shadow, screen print, mid-century optimism art direction, cultural urgency, oxblood paper palette (#221413, #5B2126, #9C3B3F, #D9B4A0), risograph misregistration, whisper-thin hairline rules, a single bold rule, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Poster Study",
+   "categoryId": "posters",
+   "aspect": 1.5
+  },
+  {
+   "file": "156-product-design.jpg",
+   "prompt": "packshot of a pair of running shoes dissected into layers, exploded view of components, warm practical light at dusk, ash wood, soft futurism art direction, tactile desire, terra firma palette (#161009, #3D2A18, #7A5230, #B98A55), anamorphic bokeh, soft halation on highlights, wet surfaces catching light, vertical 3:4 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Soft Dissected, Alone",
+   "categoryId": "product-design",
+   "aspect": 0.75
+  },
+  {
+   "file": "157-retro-aesthetics.jpg",
+   "prompt": "retro-style photograph of a 1960s airline poster in flat color, typographic poster in period style, period-correct studio light, veneer, mid-century optimism art direction, period glamour, terra firma palette (#161009, #3D2A18, #7A5230, #B98A55), soft vignette, wet surfaces catching light, dust motes suspended in light, tall 2:3 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Poster Fragment",
+   "categoryId": "retro-aesthetics",
+   "aspect": 0.6666666666666666
+  },
+  {
+   "file": "158-streetwear.jpg",
+   "prompt": "apparel graphic design of a graphic tee referencing photocopied flyers, candid motion shot, on-camera flash at night, reflective trim, luxury sports editorial art direction, nostalgic youth, citrus static palette (#0D0F0A, #2E3517, #8A9B2C, #D9D44A), dust motes suspended in light, anamorphic bokeh, woven textile texture, square 1:1 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Photocopied / Luxury",
+   "categoryId": "streetwear",
+   "aspect": 1
+  },
+  {
+   "file": "159-typography.jpg",
+   "prompt": "type specimen design of a wall of overlapping italic serifs, extreme crop of a curve, raking light revealing depth, cut steel letters, sculptural surrealism art direction, graphic wit, paper brutal palette (#111111, #2A2A2A, #6A6A66, #BDBDB4), ink squash at the edges, a single fluorescent accent, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Sodium Serifs, in Amber",
+   "categoryId": "typography",
+   "aspect": 0.8
+  },
+  {
+   "file": "160-ui-ux.jpg",
+   "prompt": "dashboard interface design of a health tracker with a calming ring visualization, side-by-side light and dark variants, clean studio framing of floating UI layers, subtle noise texture, maximalist folk ornament art direction, calm control, paper brutal palette (#111111, #2A2A2A, #6A6A66, #BDBDB4), blurred glass over imagery, anamorphic bokeh, careful icon weight, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Ring Notes",
+   "categoryId": "ui-ux",
+   "aspect": 0.8
+  }
+ ]
+}

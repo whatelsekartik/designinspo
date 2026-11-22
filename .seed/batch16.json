@@ -1,0 +1,75 @@
+{
+ "createdAt": "batch-16",
+ "items": [
+  {
+   "file": "141-experimental-design.jpg",
+   "prompt": "speculative design artifact of a mirror that reflects the wrong season, isolated artifact on a plinth, controlled gallery lighting, programmed light, poster-brutalism art direction, systems poetry, ice & rust palette (#0C1013, #26333A, #5E7A85, #A9714B), unexpected material joins, evidence of process, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Tactile Season, No. 2",
+   "categoryId": "experimental-design",
+   "aspect": 0.8
+  },
+  {
+   "file": "142-fashion.jpg",
+   "prompt": "studio fashion portrait of a backstage moment of dressers and pins, extreme fabric crop, hard sunlight with crisp shadow, heavy wool, quiet luxury fashion art direction, romantic tension, moss & milk palette (#111311, #2C332B, #5B6A56, #C2C6B4), natural skin texture, restrained styling, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Warm Pins",
+   "categoryId": "fashion",
+   "aspect": 0.8
+  },
+  {
+   "file": "143-futurism.jpg",
+   "prompt": "science-fiction environmental concept of a holographic wind map on a public wall, detail of a future mechanism, cool ambient with warm accents, grown mineral, clean futurism art direction, sublime scale, slate bloom palette (#0C0E12, #242B36, #4F5D72, #9AA6B8), matte film rendering, natural skin texture, seamless surfaces, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Public / Clean",
+   "categoryId": "futurism",
+   "aspect": 1.7777777777777777
+  },
+  {
+   "file": "144-graphic-design.jpg",
+   "prompt": "flat graphic design composition of a modular grid system pushed to expressive extremes, flat-lay of printed matter, soft raking light across embossing, newsprint, soft-focus nostalgia art direction, editorial confidence, bone & graphite palette (#141312, #33312E, #6E6A64, #B9B2A6), risograph misregistration, monospaced folios, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Grid Composition",
+   "categoryId": "graphic-design",
+   "aspect": 1.5
+  },
+  {
+   "file": "145-illustration.jpg",
+   "prompt": "editorial illustration of a city built on the back of a sleeping giant, centered iconic scene, dramatic illustrated shadow, gouache on paper, surreal editorial art direction, melancholic warmth, olive studio palette (#12140F, #2C3324, #5E6B47, #A9B08A), soft vignette, hand-lettered captions, condensation beads, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Slow Sleeping",
+   "categoryId": "illustration",
+   "aspect": 1.7777777777777777
+  },
+  {
+   "file": "146-industrial-design.jpg",
+   "prompt": "prototype photograph of a folding cargo bike frame, detail of a mechanism, studio with rim light and dark background, carbon fiber weave, biophilic futurism art direction, engineered purpose, bone & graphite palette (#141312, #33312E, #6E6A64, #B9B2A6), shallow depth of field falloff, woven textile texture, subtle chromatic aberration, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Still Bike",
+   "categoryId": "industrial-design",
+   "aspect": 0.8
+  },
+  {
+   "file": "147-interior-design.jpg",
+   "prompt": "architectural digest style interior photograph of a reading nook carved into a plaster arch, eye-level wide interior, afternoon light falling through sheer curtains, limewash plaster, warm minimalism art direction, slow living, olive studio palette (#12140F, #2C3324, #5E6B47, #A9B08A), specular highlights on glazed ceramic, fine 35mm grain, shadows of window mullions on the wall, tall 2:3 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Felted Nook, at Rest",
+   "categoryId": "interior-design",
+   "aspect": 0.6666666666666666
+  },
+  {
+   "file": "148-landscapes.jpg",
+   "prompt": "landscape photograph of terraced rice fields in morning fog, top-down aerial abstraction, first light, water, high-end commercial art direction art direction, solitary calm, teal cinema palette (#070F12, #0F2A30, #1F5A5F, #C08A4E), long exposure softness, fine 35mm grain, warm color grading with lifted shadows, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Long Morning",
+   "categoryId": "landscapes",
+   "aspect": 1.7777777777777777
+  },
+  {
+   "file": "149-logo-concepts.jpg",
+   "prompt": "symbol design exploration of a monogram of interlocking geometric strokes, blueprint-style construction lines, even document light, debossed paper, archival film art direction, iconic clarity, forest glass palette (#0A100C, #182A1E, #365C41, #83A47E), hand-inked edges, risograph misregistration, tall 2:3 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Monogram Object",
+   "categoryId": "logo-concepts",
+   "aspect": 0.6666666666666666
+  },
+  {
+   "file": "150-minimalism.jpg",
+   "prompt": "reductive design artwork of one unlit bulb in a bare doorway, subject at the far third, soft directional daylight, brushed metal, gallery-grade minimalism art direction, contemplation, warm concrete palette (#1A1613, #4A4038, #8C7B6B, #C4B5A2), natural skin texture, specular highlights on glazed ceramic, soft halation on highlights, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Hollow Bare",
+   "categoryId": "minimalism",
+   "aspect": 1.7777777777777777
+  }
+ ]
+}

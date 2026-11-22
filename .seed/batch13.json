@@ -1,0 +1,75 @@
+{
+ "createdAt": "batch-13",
+ "items": [
+  {
+   "file": "112-graphic-design.jpg",
+   "prompt": "print design photographed on paper of an invitation suite on heavy cotton stock with blind emboss, asymmetric grid with wide margins, hard directional light revealing paper texture, risograph ink, soft biomorphism art direction, experimental restraint, oxblood paper palette (#221413, #5B2126, #9C3B3F, #D9B4A0), hand-inked edges, a single fluorescent accent, hairline rules, vertical 3:4 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Amber Cotton",
+   "categoryId": "graphic-design",
+   "aspect": 0.75
+  },
+  {
+   "file": "113-illustration.jpg",
+   "prompt": "hand-drawn illustration of a mountain range formed by sleeping cats, off-center with generous white space, flat illustrative light, gouache on paper, soft-focus nostalgia art direction, melancholic warmth, rose clay palette (#1B1211, #4E2A2B, #A96A64, #D8A9A0), specular highlights on glazed ceramic, woven textile texture, limited palette, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Salt Sleeping",
+   "categoryId": "illustration",
+   "aspect": 1.5
+  },
+  {
+   "file": "114-industrial-design.jpg",
+   "prompt": "technical design drawing of a portable wind turbine for remote clinics, in-context industrial environment, workshop daylight with fluorescent spill, milled aluminum, quiet luxury art direction, industrial romance, sodium night palette (#0B0D10, #151F26, #2E4A52, #C98A3E), woven textile texture, shallow depth of field falloff, fine 35mm grain, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Turbine Exercise",
+   "categoryId": "industrial-design",
+   "aspect": 1.7777777777777777
+  },
+  {
+   "file": "115-interior-design.jpg",
+   "prompt": "photo-real interior visualization of a monastic concrete bedroom with a slit window, shot through a doorway into the next room, afternoon light falling through sheer curtains, raw linen, warm minimalism art direction, hushed luxury, rose clay palette (#1B1211, #4E2A2B, #A96A64, #D8A9A0), warm color grading with lifted shadows, shadows of window mullions on the wall, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Pale Concrete",
+   "categoryId": "interior-design",
+   "aspect": 0.8
+  },
+  {
+   "file": "116-landscapes.jpg",
+   "prompt": "conceptual landscape artwork of a canyon wall in raking evening light, strong foreground anchor, long exposure dusk, mineral terrain, poster-brutalism art direction, sublime scale, ember dusk palette (#0F0B09, #3B1E14, #B4573B, #E8935B), matte film rendering, woven textile texture, anamorphic bokeh, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Hollow Evening, in Winter",
+   "categoryId": "landscapes",
+   "aspect": 1.7777777777777777
+  },
+  {
+   "file": "117-logo-concepts.jpg",
+   "prompt": "logo design presentation of a monogram of interlocking geometric strokes, mark at large scale bleeding off canvas, soft studio gradient, debossed paper, mid-century optimism art direction, quiet confidence, blood orange palette (#100B08, #3A140B, #A33110, #E2632B), hand-inked edges, letterpress bite into cotton stock, delicate paper texture, tall 2:3 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Monolithic Monogram",
+   "categoryId": "logo-concepts",
+   "aspect": 0.6666666666666666
+  },
+  {
+   "file": "118-minimalism.jpg",
+   "prompt": "single-object still life of a paper crease catching light, vast negative space with tiny focal point, soft directional daylight, concrete, high-end commercial art direction art direction, austere beauty, moss & milk palette (#111311, #2C332B, #5B6A56, #C2C6B4), dust motes suspended in light, perfect surface finish, warm color grading with lifted shadows, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Paper / High-End",
+   "categoryId": "minimalism",
+   "aspect": 0.8
+  },
+  {
+   "file": "119-motion-design.jpg",
+   "prompt": "motion identity frame of a title sequence of sliding word fragments, frame with directional energy, projected light, film texture, gallery-grade minimalism art direction, playful rhythm, sodium night palette (#0B0D10, #151F26, #2E4A52, #C98A3E), woven textile texture, specular highlights on glazed ceramic, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Word Field",
+   "categoryId": "motion-design",
+   "aspect": 1.7777777777777777
+  },
+  {
+   "file": "120-nature.jpg",
+   "prompt": "nature photograph of an orchid photographed as architecture, macro detail filling the frame, storm light, plant fibers, matte industrial futurism art direction, elemental calm, olive studio palette (#12140F, #2C3324, #5E6B47, #A9B08A), wet surfaces catching light, fine hairs on stems, specular highlights on glazed ceramic, vertical 3:4 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Luminous Architecture, No. 2",
+   "categoryId": "nature",
+   "aspect": 0.75
+  },
+  {
+   "file": "121-packaging.jpg",
+   "prompt": "packaging design photograph of a candle in a reusable concrete vessel, family of products in a row, shelf lighting, kraft, cold futurism art direction, tactile craft, forest glass palette (#0A100C, #182A1E, #365C41, #83A47E), torn paper edges, specimen labels in mono, letterpress bite into cotton stock, vertical 3:4 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Quiet Concrete",
+   "categoryId": "packaging",
+   "aspect": 0.75
+  }
+ ]
+}

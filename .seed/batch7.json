@@ -1,0 +1,75 @@
+{
+ "createdAt": "batch-7",
+ "items": [
+  {
+   "file": "59-experimental-design.jpg",
+   "prompt": "mixed-media installation photograph of a chair that dissolves into pixels, installation view with viewer silhouette, projected light on a surface, glass, speculative design art direction, productive unease, ice & rust palette (#0C1013, #26333A, #5E7A85, #A9714B), natural skin texture, anamorphic bokeh, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Chair / Speculative",
+   "categoryId": "experimental-design",
+   "aspect": 0.8
+  },
+  {
+   "file": "60-futurism.jpg",
+   "prompt": "futuristic concept rendering of a lunar greenhouse with mirrored petals, detail of a future mechanism, soft bioluminescent glow, translucent solar film, low-fi photocopy art direction, cautious optimism, cobalt signal palette (#080C16, #13224A, #2D4EA8, #7C93D8), shallow depth of field falloff, warm color grading with lifted shadows, matte film rendering, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Clay Greenhouse",
+   "categoryId": "futurism",
+   "aspect": 1.7777777777777777
+  },
+  {
+   "file": "61-illustration.jpg",
+   "prompt": "hand-drawn illustration of an astronaut gardening on a rooftop, panoramic storytelling spread, flat illustrative light, cut paper collage, matte industrial futurism art direction, wondrous whimsy, olive studio palette (#12140F, #2C3324, #5E6B47, #A9B08A), condensation beads, dust motes suspended in light, specular highlights on glazed ceramic, square 1:1 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Astronaut Object",
+   "categoryId": "illustration",
+   "aspect": 1
+  },
+  {
+   "file": "62-industrial-design.jpg",
+   "prompt": "prototype photograph of a commercial espresso machine as exposed mechanics, in-context industrial environment, workshop daylight with fluorescent spill, carbon fiber weave, mid-century optimism art direction, future utility, bone & graphite palette (#141312, #33312E, #6E6A64, #B9B2A6), fine 35mm grain, wet surfaces catching light, specular highlights on glazed ceramic, landscape 5:4 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Dusk Machine, at Rest",
+   "categoryId": "industrial-design",
+   "aspect": 1.25
+  },
+  {
+   "file": "63-landscapes.jpg",
+   "prompt": "aerial landscape photograph of rolling dunes with a single shadow line, minimal horizon with vast sky, storm break with god rays, dust, sculptural surrealism art direction, solitary calm, sand & ink palette (#100F0C, #2B2A22, #6B6552, #C9BD9E), warm color grading with lifted shadows, shallow depth of field falloff, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Warm Shadow Interval",
+   "categoryId": "landscapes",
+   "aspect": 1.7777777777777777
+  },
+  {
+   "file": "64-logo-concepts.jpg",
+   "prompt": "monogram study on a dark field of a negative-space animal mark, mark in situ on a surface, soft studio gradient, lacquered wood, precision industrial art direction, iconic clarity, blood orange palette (#100B08, #3A140B, #A33110, #E2632B), a single fluorescent accent, specimen labels in mono, precise registration marks, tall 2:3 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Luminous Mark",
+   "categoryId": "logo-concepts",
+   "aspect": 0.6666666666666666
+  },
+  {
+   "file": "65-minimalism.jpg",
+   "prompt": "single-object still life of a pool of light on a concrete floor, symmetrical emptiness, a single pool of light, brushed metal, mid-century optimism art direction, stillness, bone & graphite palette (#141312, #33312E, #6E6A64, #B9B2A6), shallow depth of field falloff, specular highlights on glazed ceramic, woven textile texture, extreme vertical 9:16 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Hollow Pool",
+   "categoryId": "minimalism",
+   "aspect": 0.5625
+  },
+  {
+   "file": "66-nature.jpg",
+   "prompt": "environmental portrait of a landscape element of a bioluminescent shoreline at night, macro detail filling the frame, storm light, plant fibers, sculptural surrealism art direction, elemental calm, moss & milk palette (#111311, #2C332B, #5B6A56, #C2C6B4), specular highlights on glazed ceramic, fine hairs on stems, woven textile texture, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Soft Night",
+   "categoryId": "nature",
+   "aspect": 1.5
+  },
+  {
+   "file": "67-packaging.jpg",
+   "prompt": "packaging system on shelf of a sake bottle wrapped in washi paper, in-situ on a retail shelf, soft daylight with gentle shadow, molded pulp, sculptural surrealism art direction, considered sustainability, sand & ink palette (#100F0C, #2B2A22, #6B6552, #C9BD9E), specimen labels in mono, letterpress bite into cotton stock, foil edge, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Bottle / Sculptural",
+   "categoryId": "packaging",
+   "aspect": 0.8
+  },
+  {
+   "file": "68-retro-aesthetics.jpg",
+   "prompt": "analog print design of a 1970s travel brochure for an imaginary island, period advertising layout, warm tungsten interior, molded plastic, 70s earth tones art direction, period glamour, terra firma palette (#161009, #3D2A18, #7A5230, #B98A55), anamorphic bokeh, specular highlights on glazed ceramic, vertical 3:4 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Island / 70s",
+   "categoryId": "retro-aesthetics",
+   "aspect": 0.75
+  }
+ ]
+}

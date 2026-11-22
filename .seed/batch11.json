@@ -1,0 +1,26 @@
+{
+ "createdAt": "batch-11",
+ "items": [
+  {
+   "file": "99-abstract-art.jpg",
+   "prompt": "abstract artwork of a smeared photographic emulsion, diagonal energy, flat documentation light, plaster, quiet abstraction art direction, formal play, ember dusk palette (#0F0B09, #3B1E14, #B4573B, #E8935B), canvas weave, soft halation on highlights, natural skin texture, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Emulsion Surface",
+   "categoryId": "abstract-art",
+   "aspect": 1.5
+  },
+  {
+   "file": "100-architecture.jpg",
+   "prompt": "architectural concept render of an elevated steel walkway threading between rooftops, extreme low angle looking up, diffuse overcast light with no shadows, honeyed travertine, soft biomorphism art direction, sun-warmed solitude, ice & rust palette (#0C1013, #26333A, #5E7A85, #A9714B), softly patinated handrails, anamorphic bokeh, precise shadow gaps between volumes, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Pale Walkway",
+   "categoryId": "architecture",
+   "aspect": 1.7777777777777777
+  },
+  {
+   "file": "101-branding.jpg",
+   "prompt": "identity application mockup of a fintech identity built from a single geometric mark, single hero object on a plinth, dramatic side light on paper edges, matte foil, soft biomorphism art direction, heritage warmth, oxblood paper palette (#221413, #5B2126, #9C3B3F, #D9B4A0), monogram repeat pattern, halftone dot gradient, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Identity System",
+   "categoryId": "branding",
+   "aspect": 1.7777777777777777
+  }
+ ]
+}

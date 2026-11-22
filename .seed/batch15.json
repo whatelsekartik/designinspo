@@ -1,0 +1,68 @@
+{
+ "createdAt": "batch-15",
+ "items": [
+  {
+   "file": "132-architecture.jpg",
+   "prompt": "architectural photograph of a monolithic museum pierced by a vertical slit of sky, seen through a foreground doorway, hard desert noon and razor shadows, honeyed travertine, quiet luxury art direction, monumental calm, sand & ink palette (#100F0C, #2B2A22, #6B6552, #C9BD9E), subtle chromatic aberration, matte film rendering, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Museum Fragment",
+   "categoryId": "architecture",
+   "aspect": 0.8
+  },
+  {
+   "file": "133-branding.jpg",
+   "prompt": "brand world art direction of a record label's sleeve and stamp system, identity mark isolated on paper, dramatic side light on paper edges, kraft board, artisanal craft art direction, understated luxury, oxblood paper palette (#221413, #5B2126, #9C3B3F, #D9B4A0), delicate paper texture, torn paper edges, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Stamp Field",
+   "categoryId": "branding",
+   "aspect": 1.7777777777777777
+  },
+  {
+   "file": "134-brutalism.jpg",
+   "prompt": "raw concrete material study of a wall of exposed aggregate and shadow, imposing low angle, raking sun that reveals texture, raw plaster, hand-crafted imperfection art direction, raw honesty, paper brutal palette (#111111, #2A2A2A, #6A6A66, #BDBDB4), harsh shadow edges, dust motes suspended in light, tall 2:3 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Shadow / Hand-Crafted",
+   "categoryId": "brutalism",
+   "aspect": 0.6666666666666666
+  },
+  {
+   "file": "135-cinematic-art.jpg",
+   "prompt": "production design still of a flooded cathedral interior, over-the-shoulder shot, sodium vapor practicals, 35mm grain, sci-fi retrofuturism art direction, wondrous scale, cobalt signal palette (#080C16, #13224A, #2D4EA8, #7C93D8), specular highlights on glazed ceramic, soft halation on highlights, shallow depth of field falloff, landscape 5:4 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Still Cathedral, No. 2",
+   "categoryId": "cinematic-art",
+   "aspect": 1.25
+  },
+  {
+   "file": "136-color-palettes.jpg",
+   "prompt": "color palette design of a dual-tone palette with a single accent, swatches with shadows, daylight shifting across swatches, painted paper, quiet luxury art direction, warmth, moss & milk palette (#111311, #2C332B, #5B6A56, #C2C6B4), subtle hue shifts, letterpress bite into cotton stock, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Salt Accent",
+   "categoryId": "color-palettes",
+   "aspect": 0.8
+  },
+  {
+   "file": "137-conceptual-art.jpg",
+   "prompt": "documentation of a conceptual gesture of a receipt for a moment of silence, sequence of related artifacts, clinical documentation light, paper documents, soft biomorphism art direction, poetic unease, bone & graphite palette (#141312, #33312E, #6E6A64, #B9B2A6), soft vignette, matte film rendering, shallow depth of field falloff, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Monolithic Silence",
+   "categoryId": "conceptual-art",
+   "aspect": 1.7777777777777777
+  },
+  {
+   "file": "138-creative-advertising.jpg",
+   "prompt": "billboard campaign mockup of a paint brand ad where a wall becomes a wave, product hero with surreal prop, dramatic single source, liquid effects, minimal art direction art direction, brand confidence, blood orange palette (#100B08, #3A140B, #A33110, #E2632B), delicate paper texture, risograph misregistration, tall 2:3 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Amber Where, No. 2",
+   "categoryId": "creative-advertising",
+   "aspect": 0.6666666666666666
+  },
+  {
+   "file": "139-digital-art.jpg",
+   "prompt": "matte painting of a portal in a wheat field, macro detail of a generative pattern, gradient horizon light, glass and chrome, monastic restraint art direction, sublime awe, neon rice paper palette (#0A0A0C, #1B1B26, #5A49A8, #D9557E), soft vignette, warm color grading with lifted shadows, square 1:1 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Portal Fragment",
+   "categoryId": "digital-art",
+   "aspect": 1
+  },
+  {
+   "file": "140-editorial-design.jpg",
+   "prompt": "feature layout composition of an interview spread built from pull-quotes, double-page spread laid flat, hard light with page curl shadow, matte coated stock, mid-century optimism art direction, editorial authority, warm concrete palette (#1A1613, #4A4038, #8C7B6B, #C4B5A2), specimen labels in mono, halftone dot gradient, precise registration marks, tall 2:3 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Spread / Mid-Century",
+   "categoryId": "editorial-design",
+   "aspect": 0.6666666666666666
+  }
+ ]
+}

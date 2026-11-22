@@ -1,0 +1,2732 @@
+{
+  "createdAt": "2026-11-21T17:33:58.968Z",
+  "items": [
+    {
+      "file": "01-architecture.jpg",
+      "idea": {
+        "categoryId": "architecture",
+        "subcategory": "tectonic minimalism",
+        "subject": "a brutalist concrete chapel cantilevered over a sea cliff",
+        "medium": "architectural concept render",
+        "aesthetic": "tectonic minimalism",
+        "lighting": "dusk, one warm interior light glowing through the opening",
+        "palette": {
+          "name": "Ember Dusk",
+          "hex": [
+            "#0F0B09",
+            "#3B1E14",
+            "#B4573B",
+            "#E8935B",
+            "#F3D9B1"
+          ]
+        },
+        "composition": "extreme low angle looking up the cliff face",
+        "material": "board-formed concrete",
+        "mood": "sun-warmed solitude",
+        "details": [
+          "softly patinated handrails",
+          "specular highlights on glazed ceramic"
+        ],
+        "ratio": {
+          "label": "4:5",
+          "w": 4,
+          "h": 5
+        },
+        "prompt": "architectural concept render of a brutalist concrete chapel cantilevered over a sea cliff, extreme low angle looking up the cliff face, dusk, one warm interior light glowing through the opening, board-formed concrete, tectonic minimalism art direction, sun-warmed solitude, ember dusk palette (#0F0B09, #3B1E14, #B4573B, #E8935B), softly patinated handrails, specular highlights on glazed ceramic, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting, dusk, single warm interior light, sea mist, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Cliff Chapel, Low Sun",
+        "description": "A Brutalist Concrete Chapel Cantilevered Over A Sea Cliff — explored as a architectural concept render in a tectonic minimalism key. board-formed concrete carries the surface, while dusk, one warm interior light glowing through the opening. The ember dusk palette (#0F0B09 · #3B1E14 · #B4573B) holds the frame together; sun-warmed solitude.",
+        "tags": [
+          "architecture",
+          "brutalist",
+          "concrete",
+          "chapel",
+          "cantilevered",
+          "over",
+          "cliff",
+          "tectonic",
+          "minimalism",
+          "ember dusk",
+          "dusk",
+          "single",
+          "warm",
+          "interior"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-dd5125c"
+      }
+    },
+    {
+      "file": "02-architecture.jpg",
+      "idea": {
+        "categoryId": "architecture",
+        "subcategory": "new Mediterranean",
+        "subject": "a sunken travertine courtyard house with a single olive tree",
+        "medium": "architectural concept render",
+        "aesthetic": "new Mediterranean",
+        "lighting": "low winter sun raking across the facade",
+        "palette": {
+          "name": "Saffron Concrete",
+          "hex": [
+            "#151210",
+            "#3C332B",
+            "#7E6A4E",
+            "#D0A55B",
+            "#F2E1BC"
+          ]
+        },
+        "composition": "extreme low angle looking up",
+        "material": "honeyed travertine",
+        "mood": "contemplative gravity",
+        "details": [
+          "weathered formwork seams",
+          "dust motes suspended in light"
+        ],
+        "ratio": {
+          "label": "3:2",
+          "w": 3,
+          "h": 2
+        },
+        "prompt": "architectural concept render of a sunken travertine courtyard house with a single olive tree, extreme low angle looking up, low winter sun raking across the facade, honeyed travertine, new Mediterranean art direction, contemplative gravity, saffron concrete palette (#151210, #3C332B, #7E6A4E, #D0A55B), weathered formwork seams, dust motes suspended in light, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting, raking afternoon light, deep shadow, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Travertine Courtyard",
+        "description": "A Sunken Travertine Courtyard House With A Single Olive Tree — explored as a architectural concept render in a new Mediterranean key. honeyed travertine carries the surface, while low winter sun raking across the facade. The saffron concrete palette (#151210 · #3C332B · #7E6A4E) holds the frame together; contemplative gravity.",
+        "tags": [
+          "architecture",
+          "sunken",
+          "travertine",
+          "courtyard",
+          "house",
+          "with",
+          "single",
+          "olive",
+          "Mediterranean",
+          "bone & graphite",
+          "raking",
+          "afternoon",
+          "light",
+          "deep"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-e1641076"
+      }
+    },
+    {
+      "file": "03-architecture.jpg",
+      "idea": {
+        "categoryId": "architecture",
+        "subcategory": "regional brutalism",
+        "subject": "a rammed-earth winery half buried in red soil",
+        "medium": "large-format architectural photograph",
+        "aesthetic": "regional brutalism",
+        "lighting": "golden hour with dust in the air",
+        "palette": {
+          "name": "Terra Firma",
+          "hex": [
+            "#161009",
+            "#3D2A18",
+            "#7A5230",
+            "#B98A55",
+            "#E7CBA3"
+          ]
+        },
+        "composition": "aerial oblique view",
+        "material": "rammed earth",
+        "mood": "sun-warmed solitude",
+        "details": [
+          "precise shadow gaps between volumes",
+          "specular highlights on glazed ceramic"
+        ],
+        "ratio": {
+          "label": "16:9",
+          "w": 16,
+          "h": 9
+        },
+        "prompt": "large-format architectural photograph of a rammed-earth winery half buried in red soil, aerial oblique view, golden hour with dust in the air, rammed earth, regional brutalism art direction, sun-warmed solitude, terra firma palette (#161009, #3D2A18, #7A5230, #B98A55), precise shadow gaps between volumes, specular highlights on glazed ceramic, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting, golden hour, dust in air, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Earth Cellar",
+        "description": "A Rammed-Earth Winery Half Buried In Red Soil — explored as a large-format architectural photograph in a regional brutalism key. rammed earth carries the surface, while golden hour with dust in the air. The terra firma palette (#161009 · #3D2A18 · #7A5230) holds the frame together; sun-warmed solitude.",
+        "tags": [
+          "architecture",
+          "rammed-earth",
+          "winery",
+          "half",
+          "buried",
+          "soil",
+          "regional",
+          "brutalism",
+          "ember dusk",
+          "golden",
+          "hour",
+          "dust"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-911b73a"
+      }
+    },
+    {
+      "file": "04-interior-design.jpg",
+      "idea": {
+        "categoryId": "interior-design",
+        "subcategory": "quiet luxury",
+        "subject": "a sunken living room wrapped in bouclé and limewash plaster",
+        "medium": "architectural digest style interior photograph",
+        "aesthetic": "quiet luxury",
+        "lighting": "late afternoon light through sheer linen",
+        "palette": {
+          "name": "Warm Concrete",
+          "hex": [
+            "#1A1613",
+            "#4A4038",
+            "#8C7B6B",
+            "#C4B5A2",
+            "#EFE6D8"
+          ]
+        },
+        "composition": "shot through a doorway into the next room",
+        "material": "bouclé upholstery and limewash plaster",
+        "mood": "intimate warmth",
+        "details": [
+          "books stacked with intention",
+          "natural skin texture"
+        ],
+        "ratio": {
+          "label": "4:5",
+          "w": 4,
+          "h": 5
+        },
+        "prompt": "architectural digest style interior photograph of a sunken living room wrapped in bouclé and limewash plaster, shot through a doorway into the next room, late afternoon light through sheer linen, bouclé upholstery and limewash plaster, quiet luxury art direction, intimate warmth, warm concrete palette (#1A1613, #4A4038, #8C7B6B, #C4B5A2), books stacked with intention, natural skin texture, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting, late afternoon light through sheer linen, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Sunken Stillness",
+        "description": "A Sunken Living Room Wrapped In Bouclé And Limewash Plaster — explored as a architectural digest style interior photograph in a quiet luxury key. bouclé upholstery and limewash plaster carries the surface, while late afternoon light through sheer linen. The warm concrete palette (#1A1613 · #4A4038 · #8C7B6B) holds the frame together; intimate warmth.",
+        "tags": [
+          "interior design",
+          "sunken",
+          "living",
+          "room",
+          "wrapped",
+          "boucl",
+          "limewash",
+          "plaster",
+          "quiet",
+          "luxury",
+          "terra firma",
+          "late",
+          "afternoon",
+          "light"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-aff277e4"
+      }
+    },
+    {
+      "file": "05-interior-design.jpg",
+      "idea": {
+        "categoryId": "interior-design",
+        "subcategory": "warm minimalism",
+        "subject": "a chef's kitchen in olive lacquer and unlacquered brass",
+        "medium": "architectural digest style interior photograph",
+        "aesthetic": "warm minimalism",
+        "lighting": "pooled warm lamplight at dusk",
+        "palette": {
+          "name": "Olive Studio",
+          "hex": [
+            "#12140F",
+            "#2C3324",
+            "#5E6B47",
+            "#A9B08A",
+            "#E8E4D2"
+          ]
+        },
+        "composition": "eye-level wide interior",
+        "material": "olive lacquer and unlacquered brass",
+        "mood": "slow living",
+        "details": [
+          "a rumpled linen throw",
+          "soft halation on highlights"
+        ],
+        "ratio": {
+          "label": "3:2",
+          "w": 3,
+          "h": 2
+        },
+        "prompt": "architectural digest style interior photograph of a chef's kitchen in olive lacquer and unlacquered brass, eye-level wide interior, pooled warm lamplight at dusk, olive lacquer and unlacquered brass, warm minimalism art direction, slow living, olive studio palette (#12140F, #2C3324, #5E6B47, #A9B08A), a rumpled linen throw, soft halation on highlights, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting, warm interior light, one lit candle, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Olive & Brass",
+        "description": "A Chef'S Kitchen In Olive Lacquer And Unlacquered Brass — explored as a architectural digest style interior photograph in a warm minimalism key. olive lacquer and unlacquered brass carries the surface, while pooled warm lamplight at dusk. The olive studio palette (#12140F · #2C3324 · #5E6B47) holds the frame together; slow living.",
+        "tags": [
+          "interior design",
+          "chefs",
+          "kitchen",
+          "olive",
+          "lacquer",
+          "unlacquered",
+          "brass",
+          "warm",
+          "minimalism",
+          "warm concrete",
+          "interior",
+          "light",
+          "candle"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-f499e903"
+      }
+    },
+    {
+      "file": "06-interior-design.jpg",
+      "idea": {
+        "categoryId": "interior-design",
+        "subcategory": "japandi restraint",
+        "subject": "a Japanese-inspired bathing room in hinoki and stone",
+        "medium": "photo-real interior visualization",
+        "aesthetic": "japandi restraint",
+        "lighting": "low warm light with steam",
+        "palette": {
+          "name": "Warm Concrete",
+          "hex": [
+            "#1A1613",
+            "#4A4038",
+            "#8C7B6B",
+            "#C4B5A2",
+            "#EFE6D8"
+          ]
+        },
+        "composition": "eye-level wide interior",
+        "material": "hinoki wood and honed stone",
+        "mood": "slow living",
+        "details": [
+          "patina on a brass tap",
+          "wet surfaces catching light"
+        ],
+        "ratio": {
+          "label": "2:3",
+          "w": 2,
+          "h": 3
+        },
+        "prompt": "photo-real interior visualization of a Japanese-inspired bathing room in hinoki and stone, eye-level wide interior, low warm light with steam, hinoki wood and honed stone, japandi restraint art direction, slow living, warm concrete palette (#1A1613, #4A4038, #8C7B6B, #C4B5A2), patina on a brass tap, wet surfaces catching light, tall 2:3 portrait composition, gallery-grade execution, extremely high detail, masterful lighting, steam, low warm light, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Hinoki Bath",
+        "description": "A Japanese-Inspired Bathing Room In Hinoki And Stone — explored as a photo-real interior visualization in a japandi restraint key. hinoki wood and honed stone carries the surface, while low warm light with steam. The warm concrete palette (#1A1613 · #4A4038 · #8C7B6B) holds the frame together; slow living.",
+        "tags": [
+          "interior design",
+          "japanese-inspired",
+          "bathing",
+          "room",
+          "hinoki",
+          "stone",
+          "japandi",
+          "restraint",
+          "terra firma",
+          "steam",
+          "warm",
+          "light"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-2d3ec9a6"
+      }
+    },
+    {
+      "file": "07-graphic-design.jpg",
+      "idea": {
+        "categoryId": "graphic-design",
+        "subcategory": "contemporary editorial",
+        "subject": "a modernist exhibition catalogue with overprinted color fields on a strict grid",
+        "medium": "layout spread rendered as a design artifact",
+        "aesthetic": "contemporary editorial",
+        "lighting": "flat even studio light",
+        "palette": {
+          "name": "Oxblood Paper",
+          "hex": [
+            "#221413",
+            "#5B2126",
+            "#9C3B3F",
+            "#D9B4A0",
+            "#F1E5D3"
+          ]
+        },
+        "composition": "bleed typography cropped by the edge",
+        "material": "uncoated paper and spot color overprint",
+        "mood": "editorial confidence",
+        "details": [
+          "a single fluorescent accent",
+          "halftone dot gradient"
+        ],
+        "ratio": {
+          "label": "4:5",
+          "w": 4,
+          "h": 5
+        },
+        "prompt": "layout spread rendered as a design artifact of a modernist exhibition catalogue with overprinted color fields on a strict grid, bleed typography cropped by the edge, flat even studio light, uncoated paper and spot color overprint, contemporary editorial art direction, editorial confidence, oxblood paper palette (#221413, #5B2126, #9C3B3F, #D9B4A0), a single fluorescent accent, halftone dot gradient, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting, flat-lay on a warm grey field, paper texture visible, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Overprint Index",
+        "description": "A Modernist Exhibition Catalogue With Overprinted Color Fields On A Strict Grid — explored as a layout spread rendered as a design artifact in a contemporary editorial key. uncoated paper and spot color overprint carries the surface, while flat even studio light. The oxblood paper palette (#221413 · #5B2126 · #9C3B3F) holds the frame together; editorial confidence.",
+        "tags": [
+          "graphic design",
+          "modernist",
+          "exhibition",
+          "catalogue",
+          "with",
+          "overprinted",
+          "color",
+          "fields",
+          "contemporary",
+          "editorial",
+          "paper brutal",
+          "flat-lay",
+          "warm",
+          "grey"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-8780aed6"
+      }
+    },
+    {
+      "file": "08-graphic-design.jpg",
+      "idea": {
+        "categoryId": "graphic-design",
+        "subcategory": "post-digital print",
+        "subject": "a risograph zine of overlapping concrete poetry",
+        "medium": "layout spread rendered as a design artifact",
+        "aesthetic": "post-digital print",
+        "lighting": "flat scan light",
+        "palette": {
+          "name": "Citrus Static",
+          "hex": [
+            "#0D0F0A",
+            "#2E3517",
+            "#8A9B2C",
+            "#D9D44A",
+            "#F4F0C8"
+          ]
+        },
+        "composition": "flat-lay of printed matter",
+        "material": "risograph ink on newsprint",
+        "mood": "intellectual rigor",
+        "details": [
+          "dot-gain halftone",
+          "torn paper edges"
+        ],
+        "ratio": {
+          "label": "3:4",
+          "w": 3,
+          "h": 4
+        },
+        "prompt": "layout spread rendered as a design artifact of a risograph zine of overlapping concrete poetry, flat-lay of printed matter, flat scan light, risograph ink on newsprint, post-digital print art direction, intellectual rigor, citrus static palette (#0D0F0A, #2E3517, #8A9B2C, #D9D44A), dot-gain halftone, torn paper edges, vertical 3:4 composition, gallery-grade execution, extremely high detail, masterful lighting, fluorescent pink and deep teal misregistration, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Riso Poem",
+        "description": "A Risograph Zine Of Overlapping Concrete Poetry — explored as a layout spread rendered as a design artifact in a post-digital print key. risograph ink on newsprint carries the surface, while flat scan light. The citrus static palette (#0D0F0A · #2E3517 · #8A9B2C) holds the frame together; intellectual rigor.",
+        "tags": [
+          "graphic design",
+          "risograph",
+          "zine",
+          "overlapping",
+          "concrete",
+          "poetry",
+          "post-digital",
+          "print",
+          "bone & graphite",
+          "fluorescent",
+          "pink",
+          "deep",
+          "teal"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-a644308d"
+      }
+    },
+    {
+      "file": "09-web-design.jpg",
+      "idea": {
+        "categoryId": "web-design",
+        "subcategory": "warm editorial modernism",
+        "subject": "a sculptor's portfolio website with oversized serif typography and a full-bleed image",
+        "medium": "editorial website concept composition",
+        "aesthetic": "warm editorial modernism",
+        "lighting": "dim room with warm monitor glow",
+        "palette": {
+          "name": "Moss & Milk",
+          "hex": [
+            "#111311",
+            "#2C332B",
+            "#5B6A56",
+            "#C2C6B4",
+            "#F3F1E9"
+          ]
+        },
+        "composition": "full-bleed image with overlaid type",
+        "material": "visible typographic grid and hairline dividers",
+        "mood": "digital craft",
+        "details": [
+          "subtle motion-blurred carousel",
+          "specimen labels in mono"
+        ],
+        "ratio": {
+          "label": "16:9",
+          "w": 16,
+          "h": 9
+        },
+        "prompt": "editorial website concept composition of a sculptor's portfolio website with oversized serif typography and a full-bleed image, full-bleed image with overlaid type, dim room with warm monitor glow, visible typographic grid and hairline dividers, warm editorial modernism art direction, digital craft, moss & milk palette (#111311, #2C332B, #5B6A56, #C2C6B4), subtle motion-blurred carousel, specimen labels in mono, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting, desktop hero, generous negative space, dark warm UI, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Sculptor, Online",
+        "description": "A Sculptor'S Portfolio Website With Oversized Serif Typography And A Full-Bleed Image — explored as a editorial website concept composition in a warm editorial modernism key. visible typographic grid and hairline dividers carries the surface, while dim room with warm monitor glow. The moss & milk palette (#111311 · #2C332B · #5B6A56) holds the frame together; digital craft.",
+        "tags": [
+          "web design",
+          "sculptors",
+          "portfolio",
+          "website",
+          "with",
+          "oversized",
+          "serif",
+          "typography",
+          "warm",
+          "editorial",
+          "modernism",
+          "moss & milk",
+          "desktop",
+          "hero"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-74416350"
+      }
+    },
+    {
+      "file": "10-web-design.jpg",
+      "idea": {
+        "categoryId": "web-design",
+        "subcategory": "quiet luxury commerce",
+        "subject": "a fashion label homepage built on full-bleed imagery and hairline rules",
+        "medium": "UI design mockup",
+        "aesthetic": "quiet luxury commerce",
+        "lighting": "soft ambient glow from the screen",
+        "palette": {
+          "name": "Oxblood Paper",
+          "hex": [
+            "#221413",
+            "#5B2126",
+            "#9C3B3F",
+            "#D9B4A0",
+            "#F1E5D3"
+          ]
+        },
+        "composition": "mobile and desktop pairing",
+        "material": "glassmorphic panels",
+        "mood": "editorial luxury",
+        "details": [
+          "a single accent button",
+          "letterpress bite into cotton stock"
+        ],
+        "ratio": {
+          "label": "4:5",
+          "w": 4,
+          "h": 5
+        },
+        "prompt": "UI design mockup of a fashion label homepage built on full-bleed imagery and hairline rules, mobile and desktop pairing, soft ambient glow from the screen, glassmorphic panels, quiet luxury commerce art direction, editorial luxury, oxblood paper palette (#221413, #5B2126, #9C3B3F, #D9B4A0), a single accent button, letterpress bite into cotton stock, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting, editorial layout, warm paper tones, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Label Homepage",
+        "description": "A Fashion Label Homepage Built On Full-Bleed Imagery And Hairline Rules — explored as a UI design mockup in a quiet luxury commerce key. glassmorphic panels carries the surface, while soft ambient glow from the screen. The oxblood paper palette (#221413 · #5B2126 · #9C3B3F) holds the frame together; editorial luxury.",
+        "tags": [
+          "web design",
+          "fashion",
+          "label",
+          "homepage",
+          "built",
+          "full-bleed",
+          "imagery",
+          "hairline",
+          "quiet",
+          "luxury",
+          "commerce",
+          "oxblood paper",
+          "editorial",
+          "layout"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-89a37e47"
+      }
+    },
+    {
+      "file": "11-ui-ux.jpg",
+      "idea": {
+        "categoryId": "ui-ux",
+        "subcategory": "warm dark UI",
+        "subject": "a music analytics dashboard with dense charts in a warm dark interface",
+        "medium": "dashboard interface design",
+        "aesthetic": "warm dark UI",
+        "lighting": "soft screen glow in a dark studio",
+        "palette": {
+          "name": "Ember Dusk",
+          "hex": [
+            "#0F0B09",
+            "#3B1E14",
+            "#B4573B",
+            "#E8935B",
+            "#F3D9B1"
+          ]
+        },
+        "composition": "component sheet grid",
+        "material": "frosted glass panels over matte dark surfaces",
+        "mood": "premium utility",
+        "details": [
+          "micro-labels in mono",
+          "matte film rendering"
+        ],
+        "ratio": {
+          "label": "16:9",
+          "w": 16,
+          "h": 9
+        },
+        "prompt": "dashboard interface design of a music analytics dashboard with dense charts in a warm dark interface, component sheet grid, soft screen glow in a dark studio, frosted glass panels over matte dark surfaces, warm dark UI art direction, premium utility, ember dusk palette (#0F0B09, #3B1E14, #B4573B, #E8935B), micro-labels in mono, matte film rendering, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting, glass panels, one vivid orange data point, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Listening Data",
+        "description": "A Music Analytics Dashboard With Dense Charts In A Warm Dark Interface — explored as a dashboard interface design in a warm dark UI key. frosted glass panels over matte dark surfaces carries the surface, while soft screen glow in a dark studio. The ember dusk palette (#0F0B09 · #3B1E14 · #B4573B) holds the frame together; premium utility.",
+        "tags": [
+          "ui/ux",
+          "music",
+          "analytics",
+          "dashboard",
+          "with",
+          "dense",
+          "charts",
+          "warm",
+          "dark",
+          "ember dusk",
+          "glass",
+          "panels",
+          "vivid",
+          "orange"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-b91c855e"
+      }
+    },
+    {
+      "file": "12-ui-ux.jpg",
+      "idea": {
+        "categoryId": "ui-ux",
+        "subcategory": "soft neumorphic depth",
+        "subject": "a travel planner app with map-first navigation and tactile cards",
+        "medium": "design system component sheet",
+        "aesthetic": "soft neumorphic depth",
+        "lighting": "clean studio framing of floating UI layers",
+        "palette": {
+          "name": "Teal Cinema",
+          "hex": [
+            "#070F12",
+            "#0F2A30",
+            "#1F5A5F",
+            "#C08A4E",
+            "#E8DCC4"
+          ]
+        },
+        "composition": "mobile mockup on a warm paper backdrop",
+        "material": "frosted glass panels",
+        "mood": "quiet confidence",
+        "details": [
+          "careful icon weight",
+          "wet surfaces catching light"
+        ],
+        "ratio": {
+          "label": "4:5",
+          "w": 4,
+          "h": 5
+        },
+        "prompt": "design system component sheet of a travel planner app with map-first navigation and tactile cards, mobile mockup on a warm paper backdrop, clean studio framing of floating UI layers, frosted glass panels, soft neumorphic depth art direction, quiet confidence, teal cinema palette (#070F12, #0F2A30, #1F5A5F, #C08A4E), careful icon weight, wet surfaces catching light, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting, two phones floating on a warm paper backdrop, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Map First",
+        "description": "A Travel Planner App With Map-First Navigation And Tactile Cards — explored as a design system component sheet in a soft neumorphic depth key. frosted glass panels carries the surface, while clean studio framing of floating UI layers. The teal cinema palette (#070F12 · #0F2A30 · #1F5A5F) holds the frame together; quiet confidence.",
+        "tags": [
+          "ui/ux",
+          "travel",
+          "planner",
+          "with",
+          "map-first",
+          "navigation",
+          "tactile",
+          "cards",
+          "soft",
+          "neumorphic",
+          "depth",
+          "teal cinema",
+          "phones",
+          "floating"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-399a2bf7"
+      }
+    },
+    {
+      "file": "13-ui-ux.jpg",
+      "idea": {
+        "categoryId": "ui-ux",
+        "subcategory": "precision data design",
+        "subject": "a developer console with an open command palette",
+        "medium": "design system component sheet",
+        "aesthetic": "precision data design",
+        "lighting": "soft glow of the interface in a dim room",
+        "palette": {
+          "name": "Sodium Night",
+          "hex": [
+            "#0B0D10",
+            "#151F26",
+            "#2E4A52",
+            "#C98A3E",
+            "#F2C879"
+          ]
+        },
+        "composition": "side-by-side light and dark variants",
+        "material": "matte dark surfaces with 1px hairline borders",
+        "mood": "calm control",
+        "details": [
+          "a single vivid data point",
+          "natural skin texture"
+        ],
+        "ratio": {
+          "label": "16:9",
+          "w": 16,
+          "h": 9
+        },
+        "prompt": "design system component sheet of a developer console with an open command palette, side-by-side light and dark variants, soft glow of the interface in a dim room, matte dark surfaces with 1px hairline borders, precision data design art direction, calm control, sodium night palette (#0B0D10, #151F26, #2E4A52, #C98A3E), a single vivid data point, natural skin texture, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting, dark matte UI with warm accent, mono labels, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Command Palette",
+        "description": "A Developer Console With An Open Command Palette — explored as a design system component sheet in a precision data design key. matte dark surfaces with 1px hairline borders carries the surface, while soft glow of the interface in a dim room. The sodium night palette (#0B0D10 · #151F26 · #2E4A52) holds the frame together; calm control.",
+        "tags": [
+          "ui/ux",
+          "developer",
+          "console",
+          "with",
+          "open",
+          "command",
+          "palette",
+          "precision",
+          "data",
+          "design",
+          "sodium night",
+          "dark",
+          "matte",
+          "warm"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-a49e4e11"
+      }
+    },
+    {
+      "file": "14-typography.jpg",
+      "idea": {
+        "categoryId": "typography",
+        "subcategory": "expressive modernism",
+        "subject": "extruded 3D letterforms catching warm light",
+        "medium": "experimental type artwork",
+        "aesthetic": "expressive modernism",
+        "lighting": "raking light revealing depth",
+        "palette": {
+          "name": "Blood Orange",
+          "hex": [
+            "#100B08",
+            "#3A140B",
+            "#A33110",
+            "#E2632B",
+            "#F8CFA2"
+          ]
+        },
+        "composition": "single letterform centered",
+        "material": "extruded matte clay letterform",
+        "mood": "formal elegance",
+        "details": [
+          "specimen captions in mono",
+          "halftone dot gradient"
+        ],
+        "ratio": {
+          "label": "4:5",
+          "w": 4,
+          "h": 5
+        },
+        "prompt": "experimental type artwork of extruded 3D letterforms catching warm light, single letterform centered, raking light revealing depth, extruded matte clay letterform, expressive modernism art direction, formal elegance, blood orange palette (#100B08, #3A140B, #A33110, #E2632B), specimen captions in mono, halftone dot gradient, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting, single lowercase 'a', shallow depth of field, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Letter as Object",
+        "description": "Extruded 3D Letterforms Catching Warm Light — explored as a experimental type artwork in a expressive modernism key. extruded matte clay letterform carries the surface, while raking light revealing depth. The blood orange palette (#100B08 · #3A140B · #A33110) holds the frame together; formal elegance.",
+        "tags": [
+          "typography",
+          "extruded",
+          "letterforms",
+          "catching",
+          "warm",
+          "light",
+          "expressive",
+          "modernism",
+          "paper brutal",
+          "single",
+          "lowercase",
+          "shallow",
+          "depth"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-5140bb26"
+      }
+    },
+    {
+      "file": "15-typography.jpg",
+      "idea": {
+        "categoryId": "typography",
+        "subcategory": "optical minimalism",
+        "subject": "a modular alphabet built from one shape, printed letterpress",
+        "medium": "photograph of physical letterforms",
+        "aesthetic": "optical minimalism",
+        "lighting": "raking light across deep impression",
+        "palette": {
+          "name": "Paper Brutal",
+          "hex": [
+            "#111111",
+            "#2A2A2A",
+            "#6A6A66",
+            "#BDBDB4",
+            "#F4F1E8"
+          ]
+        },
+        "composition": "wall-mounted signage in situ",
+        "material": "cut steel type and cotton stock",
+        "mood": "quiet monumentality",
+        "details": [
+          "hairline serifs",
+          "precise registration marks"
+        ],
+        "ratio": {
+          "label": "3:4",
+          "w": 3,
+          "h": 4
+        },
+        "prompt": "photograph of physical letterforms of a modular alphabet built from one shape, printed letterpress, wall-mounted signage in situ, raking light across deep impression, cut steel type and cotton stock, optical minimalism art direction, quiet monumentality, paper brutal palette (#111111, #2A2A2A, #6A6A66, #BDBDB4), hairline serifs, precise registration marks, vertical 3:4 composition, gallery-grade execution, extremely high detail, masterful lighting, deep impression in cotton stock, raking light, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "One Shape, 26 Letters",
+        "description": "A Modular Alphabet Built From One Shape, Printed Letterpress — explored as a photograph of physical letterforms in a optical minimalism key. cut steel type and cotton stock carries the surface, while raking light across deep impression. The paper brutal palette (#111111 · #2A2A2A · #6A6A66) holds the frame together; quiet monumentality.",
+        "tags": [
+          "typography",
+          "modular",
+          "alphabet",
+          "built",
+          "from",
+          "shape",
+          "printed",
+          "letterpress",
+          "optical",
+          "minimalism",
+          "blood orange",
+          "deep",
+          "impression",
+          "cotton"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-742f13bb"
+      }
+    },
+    {
+      "file": "16-branding.jpg",
+      "idea": {
+        "categoryId": "branding",
+        "subcategory": "artisanal craft",
+        "subject": "a specialty coffee roaster's identity across kraft packaging and cards",
+        "medium": "identity application mockup",
+        "aesthetic": "artisanal craft",
+        "lighting": "warm tungsten on packaging",
+        "palette": {
+          "name": "Terra Firma",
+          "hex": [
+            "#161009",
+            "#3D2A18",
+            "#7A5230",
+            "#B98A55",
+            "#E7CBA3"
+          ]
+        },
+        "composition": "identity mark isolated on paper",
+        "material": "kraft board and letterpress card stock",
+        "mood": "heritage warmth",
+        "details": [
+          "consistent corner radius logic",
+          "precise registration marks"
+        ],
+        "ratio": {
+          "label": "3:2",
+          "w": 3,
+          "h": 2
+        },
+        "prompt": "identity application mockup of a specialty coffee roaster's identity across kraft packaging and cards, identity mark isolated on paper, warm tungsten on packaging, kraft board and letterpress card stock, artisanal craft art direction, heritage warmth, terra firma palette (#161009, #3D2A18, #7A5230, #B98A55), consistent corner radius logic, precise registration marks, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting, overhead flat-lay, hand-stamped details, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Roaster Identity",
+        "description": "A Specialty Coffee Roaster'S Identity Across Kraft Packaging And Cards — explored as a identity application mockup in a artisanal craft key. kraft board and letterpress card stock carries the surface, while warm tungsten on packaging. The terra firma palette (#161009 · #3D2A18 · #7A5230) holds the frame together; heritage warmth.",
+        "tags": [
+          "branding",
+          "specialty",
+          "coffee",
+          "roasters",
+          "identity",
+          "across",
+          "kraft",
+          "packaging",
+          "artisanal",
+          "craft",
+          "warm concrete",
+          "overhead",
+          "flat-lay",
+          "hand-stamped"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-4ee1b909"
+      }
+    },
+    {
+      "file": "17-branding.jpg",
+      "idea": {
+        "categoryId": "branding",
+        "subcategory": "quiet luxury branding",
+        "subject": "a boutique hotel identity across key cards, matchbooks and stationery",
+        "medium": "brand world art direction",
+        "aesthetic": "quiet luxury branding",
+        "lighting": "soft daylight flat-lay",
+        "palette": {
+          "name": "Copper Verdigris",
+          "hex": [
+            "#0E1412",
+            "#1F3A34",
+            "#4E8A76",
+            "#B87B4E",
+            "#EADFCB"
+          ]
+        },
+        "composition": "overhead grid of collateral",
+        "material": "blind-embossed cotton stock and foil",
+        "mood": "playful confidence",
+        "details": [
+          "consistent corner radius logic",
+          "hand-inked edges"
+        ],
+        "ratio": {
+          "label": "4:5",
+          "w": 4,
+          "h": 5
+        },
+        "prompt": "brand world art direction of a boutique hotel identity across key cards, matchbooks and stationery, overhead grid of collateral, soft daylight flat-lay, blind-embossed cotton stock and foil, quiet luxury branding art direction, playful confidence, copper verdigris palette (#0E1412, #1F3A34, #4E8A76, #B87B4E), consistent corner radius logic, hand-inked edges, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting, blind emboss, warm tungsten light, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Hotel Collateral",
+        "description": "A Boutique Hotel Identity Across Key Cards, Matchbooks And Stationery — explored as a brand world art direction in a quiet luxury branding key. blind-embossed cotton stock and foil carries the surface, while soft daylight flat-lay. The copper verdigris palette (#0E1412 · #1F3A34 · #4E8A76) holds the frame together; playful confidence.",
+        "tags": [
+          "branding",
+          "boutique",
+          "hotel",
+          "identity",
+          "across",
+          "cards",
+          "matchbooks",
+          "stationery",
+          "quiet",
+          "luxury",
+          "copper verdigris",
+          "blind",
+          "emboss",
+          "warm"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-2ed15a1e"
+      }
+    },
+    {
+      "file": "18-logo-concepts.jpg",
+      "idea": {
+        "categoryId": "logo-concepts",
+        "subcategory": "precision minimalism",
+        "subject": "a monogram of interlocking geometric strokes, embossed on heavy paper",
+        "medium": "monogram study on a dark field",
+        "aesthetic": "precision minimalism",
+        "lighting": "single soft studio gradient",
+        "palette": {
+          "name": "Bone & Graphite",
+          "hex": [
+            "#141312",
+            "#33312E",
+            "#6E6A64",
+            "#B9B2A6",
+            "#EFEAE1"
+          ]
+        },
+        "composition": "small mark repeated in a grid",
+        "material": "debossed heavy paper",
+        "mood": "iconic clarity",
+        "details": [
+          "construction guides visible",
+          "torn paper edges"
+        ],
+        "ratio": {
+          "label": "1:1",
+          "w": 1,
+          "h": 1
+        },
+        "prompt": "monogram study on a dark field of a monogram of interlocking geometric strokes, embossed on heavy paper, small mark repeated in a grid, single soft studio gradient, debossed heavy paper, precision minimalism art direction, iconic clarity, bone & graphite palette (#141312, #33312E, #6E6A64, #B9B2A6), construction guides visible, torn paper edges, square 1:1 composition, gallery-grade execution, extremely high detail, masterful lighting, single mark with generous margin, soft studio gradient, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Interlock",
+        "description": "A Monogram Of Interlocking Geometric Strokes, Embossed On Heavy Paper — explored as a monogram study on a dark field in a precision minimalism key. debossed heavy paper carries the surface, while single soft studio gradient. The bone & graphite palette (#141312 · #33312E · #6E6A64) holds the frame together; iconic clarity.",
+        "tags": [
+          "logo concepts",
+          "monogram",
+          "interlocking",
+          "geometric",
+          "strokes",
+          "embossed",
+          "heavy",
+          "paper",
+          "precision",
+          "minimalism",
+          "forest glass",
+          "single",
+          "mark",
+          "with"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-b5ec55e6"
+      }
+    },
+    {
+      "file": "19-posters.jpg",
+      "idea": {
+        "categoryId": "posters",
+        "subcategory": "Swiss poster tradition",
+        "subject": "a jazz festival poster built from one giant numeral",
+        "medium": "screen-printed poster artwork",
+        "aesthetic": "Swiss poster tradition",
+        "lighting": "gallery wall light with soft shadow",
+        "palette": {
+          "name": "Oxblood Paper",
+          "hex": [
+            "#221413",
+            "#5B2126",
+            "#9C3B3F",
+            "#D9B4A0",
+            "#F1E5D3"
+          ]
+        },
+        "composition": "diptych of two poster variants",
+        "material": "screen print on cream stock",
+        "mood": "cultural urgency",
+        "details": [
+          "corner pin holes",
+          "a single fluorescent accent"
+        ],
+        "ratio": {
+          "label": "2:3",
+          "w": 2,
+          "h": 3
+        },
+        "prompt": "screen-printed poster artwork of a jazz festival poster built from one giant numeral, diptych of two poster variants, gallery wall light with soft shadow, screen print on cream stock, Swiss poster tradition art direction, cultural urgency, oxblood paper palette (#221413, #5B2126, #9C3B3F, #D9B4A0), corner pin holes, a single fluorescent accent, tall 2:3 portrait composition, gallery-grade execution, extremely high detail, masterful lighting, screen print, deep oxblood on cream, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Festival Numeral",
+        "description": "A Jazz Festival Poster Built From One Giant Numeral — explored as a screen-printed poster artwork in a Swiss poster tradition key. screen print on cream stock carries the surface, while gallery wall light with soft shadow. The oxblood paper palette (#221413 · #5B2126 · #9C3B3F) holds the frame together; cultural urgency.",
+        "tags": [
+          "posters",
+          "jazz",
+          "festival",
+          "poster",
+          "built",
+          "from",
+          "giant",
+          "numeral",
+          "Swiss",
+          "tradition",
+          "citrus static",
+          "screen",
+          "print",
+          "deep"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-37fe2d73"
+      }
+    },
+    {
+      "file": "20-posters.jpg",
+      "idea": {
+        "categoryId": "posters",
+        "subcategory": "neo-noir",
+        "subject": "an art-house film poster with a single still and italic credits",
+        "medium": "screen-printed poster artwork",
+        "aesthetic": "neo-noir",
+        "lighting": "flat scan light",
+        "palette": {
+          "name": "Blood Orange",
+          "hex": [
+            "#100B08",
+            "#3A140B",
+            "#A33110",
+            "#E2632B",
+            "#F8CFA2"
+          ]
+        },
+        "composition": "poster pinned in a studio",
+        "material": "riso ink",
+        "mood": "print romance",
+        "details": [
+          "misregistered ink layers",
+          "letterpress bite into cotton stock"
+        ],
+        "ratio": {
+          "label": "2:3",
+          "w": 2,
+          "h": 3
+        },
+        "prompt": "screen-printed poster artwork of an art-house film poster with a single still and italic credits, poster pinned in a studio, flat scan light, riso ink, neo-noir art direction, print romance, blood orange palette (#100B08, #3A140B, #A33110, #E2632B), misregistered ink layers, letterpress bite into cotton stock, tall 2:3 portrait composition, gallery-grade execution, extremely high detail, masterful lighting, warm dust tones, hairline frame, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Late Screening",
+        "description": "An Art-House Film Poster With A Single Still And Italic Credits — explored as a screen-printed poster artwork in a neo-noir key. riso ink carries the surface, while flat scan light. The blood orange palette (#100B08 · #3A140B · #A33110) holds the frame together; print romance.",
+        "tags": [
+          "posters",
+          "art-house",
+          "film",
+          "poster",
+          "with",
+          "single",
+          "still",
+          "italic",
+          "neo-noir",
+          "blood orange",
+          "warm",
+          "dust",
+          "tones",
+          "hairline"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-cc32b769"
+      }
+    },
+    {
+      "file": "21-editorial-design.jpg",
+      "idea": {
+        "categoryId": "editorial-design",
+        "subcategory": "quiet editorial luxury",
+        "subject": "a slow-living magazine cover with a kitchen still life",
+        "medium": "editorial photograph of printed matter",
+        "aesthetic": "quiet editorial luxury",
+        "lighting": "soft daylight on the page",
+        "palette": {
+          "name": "Olive Studio",
+          "hex": [
+            "#12140F",
+            "#2C3324",
+            "#5E6B47",
+            "#A9B08A",
+            "#E8E4D2"
+          ]
+        },
+        "composition": "cover isolated on a colored field",
+        "material": "matte coated stock",
+        "mood": "editorial authority",
+        "details": [
+          "justified text with generous leading",
+          "whisper-thin hairline rules"
+        ],
+        "ratio": {
+          "label": "3:4",
+          "w": 3,
+          "h": 4
+        },
+        "prompt": "editorial photograph of printed matter of a slow-living magazine cover with a kitchen still life, cover isolated on a colored field, soft daylight on the page, matte coated stock, quiet editorial luxury art direction, editorial authority, olive studio palette (#12140F, #2C3324, #5E6B47, #A9B08A), justified text with generous leading, whisper-thin hairline rules, vertical 3:4 composition, gallery-grade execution, extremely high detail, masterful lighting, masthead in elegant serif, matte paper, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Issue 04: Kitchen",
+        "description": "A Slow-Living Magazine Cover With A Kitchen Still Life — explored as a editorial photograph of printed matter in a quiet editorial luxury key. matte coated stock carries the surface, while soft daylight on the page. The olive studio palette (#12140F · #2C3324 · #5E6B47) holds the frame together; editorial authority.",
+        "tags": [
+          "editorial design",
+          "slow-living",
+          "magazine",
+          "cover",
+          "with",
+          "kitchen",
+          "still",
+          "life",
+          "quiet",
+          "editorial",
+          "luxury",
+          "warm concrete",
+          "masthead",
+          "elegant"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-efa644e"
+      }
+    },
+    {
+      "file": "22-editorial-design.jpg",
+      "idea": {
+        "categoryId": "editorial-design",
+        "subcategory": "archival revival",
+        "subject": "an architecture magazine fold-out section drawing",
+        "medium": "editorial photograph of printed matter",
+        "aesthetic": "archival revival",
+        "lighting": "hard light with page curl shadow",
+        "palette": {
+          "name": "Sand & Ink",
+          "hex": [
+            "#100F0C",
+            "#2B2A22",
+            "#6B6552",
+            "#C9BD9E",
+            "#F5EEDD"
+          ]
+        },
+        "composition": "close crop of a column of text",
+        "material": "belly band",
+        "mood": "editorial authority",
+        "details": [
+          "a single full-bleed image",
+          "whisper-thin hairline rules"
+        ],
+        "ratio": {
+          "label": "16:9",
+          "w": 16,
+          "h": 9
+        },
+        "prompt": "editorial photograph of printed matter of an architecture magazine fold-out section drawing, close crop of a column of text, hard light with page curl shadow, belly band, archival revival art direction, editorial authority, sand & ink palette (#100F0C, #2B2A22, #6B6552, #C9BD9E), a single full-bleed image, whisper-thin hairline rules, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting, duotone print, thin technical lines, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Fold-Out Elevation",
+        "description": "An Architecture Magazine Fold-Out Section Drawing — explored as a editorial photograph of printed matter in a archival revival key. belly band carries the surface, while hard light with page curl shadow. The sand & ink palette (#100F0C · #2B2A22 · #6B6552) holds the frame together; editorial authority.",
+        "tags": [
+          "editorial design",
+          "architecture",
+          "magazine",
+          "fold-out",
+          "section",
+          "drawing",
+          "archival",
+          "revival",
+          "sand & ink",
+          "duotone",
+          "print",
+          "thin",
+          "technical"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-55392a1c"
+      }
+    },
+    {
+      "file": "23-photography.jpg",
+      "idea": {
+        "categoryId": "photography",
+        "subcategory": "cinematic naturalism",
+        "subject": "a lone swimmer in an empty tiled pool at dawn",
+        "medium": "medium-format photograph",
+        "aesthetic": "cinematic naturalism",
+        "lighting": "golden hour backlight",
+        "palette": {
+          "name": "Teal Cinema",
+          "hex": [
+            "#070F12",
+            "#0F2A30",
+            "#1F5A5F",
+            "#C08A4E",
+            "#E8DCC4"
+          ]
+        },
+        "composition": "off-center subject with negative space",
+        "material": "water and glazed tile",
+        "mood": "melancholy warmth",
+        "details": [
+          "natural skin texture",
+          "fine 35mm grain"
+        ],
+        "ratio": {
+          "label": "3:2",
+          "w": 3,
+          "h": 2
+        },
+        "prompt": "medium-format photograph of a lone swimmer in an empty tiled pool at dawn, off-center subject with negative space, golden hour backlight, water and glazed tile, cinematic naturalism art direction, melancholy warmth, teal cinema palette (#070F12, #0F2A30, #1F5A5F, #C08A4E), natural skin texture, fine 35mm grain, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting, 35mm grain, turquoise water, warm light, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "First Length",
+        "description": "A Lone Swimmer In An Empty Tiled Pool At Dawn — explored as a medium-format photograph in a cinematic naturalism key. water and glazed tile carries the surface, while golden hour backlight. The teal cinema palette (#070F12 · #0F2A30 · #1F5A5F) holds the frame together; melancholy warmth.",
+        "tags": [
+          "photography",
+          "lone",
+          "swimmer",
+          "empty",
+          "tiled",
+          "pool",
+          "dawn",
+          "cinematic",
+          "naturalism",
+          "ember dusk",
+          "35mm",
+          "grain",
+          "turquoise",
+          "water"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-af6019db"
+      }
+    },
+    {
+      "file": "24-photography.jpg",
+      "idea": {
+        "categoryId": "photography",
+        "subcategory": "editorial minimalism",
+        "subject": "a still life of bruised fruit on a marble ledge",
+        "medium": "editorial photograph",
+        "aesthetic": "editorial minimalism",
+        "lighting": "single window light with deep matte shadows",
+        "palette": {
+          "name": "Saffron Concrete",
+          "hex": [
+            "#151210",
+            "#3C332B",
+            "#7E6A4E",
+            "#D0A55B",
+            "#F2E1BC"
+          ]
+        },
+        "composition": "tight environmental portrait",
+        "material": "marble and bruised skin",
+        "mood": "melancholy warmth",
+        "details": [
+          "dust in the light",
+          "natural skin texture"
+        ],
+        "ratio": {
+          "label": "4:5",
+          "w": 4,
+          "h": 5
+        },
+        "prompt": "editorial photograph of a still life of bruised fruit on a marble ledge, tight environmental portrait, single window light with deep matte shadows, marble and bruised skin, editorial minimalism art direction, melancholy warmth, saffron concrete palette (#151210, #3C332B, #7E6A4E, #D0A55B), dust in the light, natural skin texture, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting, window light, deep matte shadows, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Late Fruit",
+        "description": "A Still Life Of Bruised Fruit On A Marble Ledge — explored as a editorial photograph in a editorial minimalism key. marble and bruised skin carries the surface, while single window light with deep matte shadows. The saffron concrete palette (#151210 · #3C332B · #7E6A4E) holds the frame together; melancholy warmth.",
+        "tags": [
+          "photography",
+          "still",
+          "life",
+          "bruised",
+          "fruit",
+          "marble",
+          "ledge",
+          "editorial",
+          "minimalism",
+          "sand & ink",
+          "window",
+          "light",
+          "deep",
+          "matte"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-2ed7599b"
+      }
+    },
+    {
+      "file": "25-photography.jpg",
+      "idea": {
+        "categoryId": "photography",
+        "subcategory": "nocturnal sensuality",
+        "subject": "a rain-slicked city street at 2am with a lone silhouette",
+        "medium": "art-directed photograph",
+        "aesthetic": "nocturnal sensuality",
+        "lighting": "single bare bulb",
+        "palette": {
+          "name": "Ember Dusk",
+          "hex": [
+            "#0F0B09",
+            "#3B1E14",
+            "#B4573B",
+            "#E8935B",
+            "#F3D9B1"
+          ]
+        },
+        "composition": "off-center subject with negative space",
+        "material": "analog film grain",
+        "mood": "reverie",
+        "details": [
+          "motion blur at the edges",
+          "soft vignette"
+        ],
+        "ratio": {
+          "label": "16:9",
+          "w": 16,
+          "h": 9
+        },
+        "prompt": "art-directed photograph of a rain-slicked city street at 2am with a lone silhouette, off-center subject with negative space, single bare bulb, analog film grain, nocturnal sensuality art direction, reverie, ember dusk palette (#0F0B09, #3B1E14, #B4573B, #E8935B), motion blur at the edges, soft vignette, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting, sodium streetlights, reflections, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Two in the Morning",
+        "description": "A Rain-Slicked City Street At 2am With A Lone Silhouette — explored as a art-directed photograph in a nocturnal sensuality key. analog film grain carries the surface, while single bare bulb. The ember dusk palette (#0F0B09 · #3B1E14 · #B4573B) holds the frame together; reverie.",
+        "tags": [
+          "photography",
+          "rain-slicked",
+          "city",
+          "street",
+          "with",
+          "lone",
+          "silhouette",
+          "nocturnal",
+          "sensuality",
+          "ember dusk",
+          "sodium",
+          "streetlights",
+          "reflections"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-5f8e5943"
+      }
+    },
+    {
+      "file": "26-cinematic-art.jpg",
+      "idea": {
+        "categoryId": "cinematic-art",
+        "subcategory": "sun-drenched Americana",
+        "subject": "a lone astronaut standing in a wheat field at dusk",
+        "medium": "cinematic film still",
+        "aesthetic": "sun-drenched Americana",
+        "lighting": "dusk backlight with volumetric haze",
+        "palette": {
+          "name": "Amber Dusk",
+          "hex": [
+            "#120D08",
+            "#3A2410",
+            "#8A531A",
+            "#D89A45",
+            "#F6E3BD"
+          ]
+        },
+        "composition": "wide 2.39:1 framing with subject small",
+        "material": "dust, wheat and matte visor glass",
+        "mood": "wondrous scale",
+        "details": [
+          "narrative props in the foreground",
+          "natural skin texture"
+        ],
+        "ratio": {
+          "label": "16:9",
+          "w": 16,
+          "h": 9
+        },
+        "prompt": "cinematic film still of a lone astronaut standing in a wheat field at dusk, wide 2.39:1 framing with subject small, dusk backlight with volumetric haze, dust, wheat and matte visor glass, sun-drenched Americana art direction, wondrous scale, amber dusk palette (#120D08, #3A2410, #8A531A, #D89A45), narrative props in the foreground, natural skin texture, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting, anamorphic flare, 35mm grain, letterboxed frame, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Visitor, Harvest",
+        "description": "A Lone Astronaut Standing In A Wheat Field At Dusk — explored as a cinematic film still in a sun-drenched Americana key. dust, wheat and matte visor glass carries the surface, while dusk backlight with volumetric haze. The amber dusk palette (#120D08 · #3A2410 · #8A531A) holds the frame together; wondrous scale.",
+        "tags": [
+          "cinematic art",
+          "lone",
+          "astronaut",
+          "standing",
+          "wheat",
+          "field",
+          "dusk",
+          "sun-drenched",
+          "Americana",
+          "ember dusk",
+          "anamorphic",
+          "flare",
+          "35mm",
+          "grain"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-eec65be2"
+      }
+    },
+    {
+      "file": "27-cinematic-art.jpg",
+      "idea": {
+        "categoryId": "cinematic-art",
+        "subcategory": "neo-noir",
+        "subject": "a hotel corridor lit by one flickering sconce",
+        "medium": "anamorphic frame from an imagined film",
+        "aesthetic": "neo-noir",
+        "lighting": "single hard key with deep shadow",
+        "palette": {
+          "name": "Blood Orange",
+          "hex": [
+            "#100B08",
+            "#3A140B",
+            "#A33110",
+            "#E2632B",
+            "#F8CFA2"
+          ]
+        },
+        "composition": "close-up with shallow depth",
+        "material": "35mm grain",
+        "mood": "romantic tension",
+        "details": [
+          "letterboxed frame",
+          "natural skin texture"
+        ],
+        "ratio": {
+          "label": "16:9",
+          "w": 16,
+          "h": 9
+        },
+        "prompt": "anamorphic frame from an imagined film of a hotel corridor lit by one flickering sconce, close-up with shallow depth, single hard key with deep shadow, 35mm grain, neo-noir art direction, romantic tension, blood orange palette (#100B08, #3A140B, #A33110, #E2632B), letterboxed frame, natural skin texture, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting, deep shadow, green-amber palette, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Corridor, Room 9",
+        "description": "A Hotel Corridor Lit By One Flickering Sconce — explored as a anamorphic frame from an imagined film in a neo-noir key. 35mm grain carries the surface, while single hard key with deep shadow. The blood orange palette (#100B08 · #3A140B · #A33110) holds the frame together; romantic tension.",
+        "tags": [
+          "cinematic art",
+          "hotel",
+          "corridor",
+          "flickering",
+          "sconce",
+          "neo-noir",
+          "blood orange",
+          "deep",
+          "shadow",
+          "green-amber",
+          "palette"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-979fceaf"
+      }
+    },
+    {
+      "file": "28-product-design.jpg",
+      "idea": {
+        "categoryId": "product-design",
+        "subcategory": "warm industrial design",
+        "subject": "a portable speaker in die-cast aluminum and wool felt",
+        "medium": "product design concept rendering",
+        "aesthetic": "warm industrial design",
+        "lighting": "warm practical light at dusk",
+        "palette": {
+          "name": "Bone & Graphite",
+          "hex": [
+            "#141312",
+            "#33312E",
+            "#6E6A64",
+            "#B9B2A6",
+            "#EFEAE1"
+          ]
+        },
+        "composition": "hero object centered on a pedestal",
+        "material": "wool felt",
+        "mood": "engineering calm",
+        "details": [
+          "precision part lines",
+          "wet surfaces catching light"
+        ],
+        "ratio": {
+          "label": "1:1",
+          "w": 1,
+          "h": 1
+        },
+        "prompt": "product design concept rendering of a portable speaker in die-cast aluminum and wool felt, hero object centered on a pedestal, warm practical light at dusk, wool felt, warm industrial design art direction, engineering calm, bone & graphite palette (#141312, #33312E, #6E6A64, #B9B2A6), precision part lines, wet surfaces catching light, square 1:1 composition, gallery-grade execution, extremely high detail, masterful lighting, on a warm plaster pedestal, soft shadow, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Speaker No. 1",
+        "description": "A Portable Speaker In Die-Cast Aluminum And Wool Felt — explored as a product design concept rendering in a warm industrial design key. wool felt carries the surface, while warm practical light at dusk. The bone & graphite palette (#141312 · #33312E · #6E6A64) holds the frame together; engineering calm.",
+        "tags": [
+          "product design",
+          "portable",
+          "speaker",
+          "die-cast",
+          "aluminum",
+          "wool",
+          "felt",
+          "warm",
+          "industrial",
+          "design",
+          "bone & graphite",
+          "plaster",
+          "pedestal",
+          "soft"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-b3c61b66"
+      }
+    },
+    {
+      "file": "29-product-design.jpg",
+      "idea": {
+        "categoryId": "product-design",
+        "subcategory": "braun-inspired functionalism",
+        "subject": "a desk lamp with a single pivoting arm in brushed metal",
+        "medium": "packshot",
+        "aesthetic": "braun-inspired functionalism",
+        "lighting": "single hard sunlight with long shadow",
+        "palette": {
+          "name": "Saffron Concrete",
+          "hex": [
+            "#151210",
+            "#3C332B",
+            "#7E6A4E",
+            "#D0A55B",
+            "#F2E1BC"
+          ]
+        },
+        "composition": "hero object centered on a pedestal",
+        "material": "bead-blasted aluminum",
+        "mood": "tactile desire",
+        "details": [
+          "considered control layout",
+          "condensation beads"
+        ],
+        "ratio": {
+          "label": "4:5",
+          "w": 4,
+          "h": 5
+        },
+        "prompt": "packshot of a desk lamp with a single pivoting arm in brushed metal, hero object centered on a pedestal, single hard sunlight with long shadow, bead-blasted aluminum, braun-inspired functionalism art direction, tactile desire, saffron concrete palette (#151210, #3C332B, #7E6A4E, #D0A55B), considered control layout, condensation beads, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting, studio backdrop, hard sun and long shadow, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Pivot Lamp",
+        "description": "A Desk Lamp With A Single Pivoting Arm In Brushed Metal — explored as a packshot in a braun-inspired functionalism key. bead-blasted aluminum carries the surface, while single hard sunlight with long shadow. The saffron concrete palette (#151210 · #3C332B · #7E6A4E) holds the frame together; tactile desire.",
+        "tags": [
+          "product design",
+          "desk",
+          "lamp",
+          "with",
+          "single",
+          "pivoting",
+          "brushed",
+          "metal",
+          "braun-inspired",
+          "functionalism",
+          "saffron concrete",
+          "studio",
+          "backdrop",
+          "hard"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-eddafa6b"
+      }
+    },
+    {
+      "file": "30-product-design.jpg",
+      "idea": {
+        "categoryId": "product-design",
+        "subcategory": "soft futurism",
+        "subject": "a pair of running shoes dissected into layered materials",
+        "medium": "product design concept rendering",
+        "aesthetic": "soft futurism",
+        "lighting": "soft gradient studio backdrop",
+        "palette": {
+          "name": "Terra Firma",
+          "hex": [
+            "#161009",
+            "#3D2A18",
+            "#7A5230",
+            "#B98A55",
+            "#E7CBA3"
+          ]
+        },
+        "composition": "macro detail of a joint",
+        "material": "glazed stoneware",
+        "mood": "everyday elegance",
+        "details": [
+          "tactile surface microtexture",
+          "dust motes suspended in light"
+        ],
+        "ratio": {
+          "label": "3:2",
+          "w": 3,
+          "h": 2
+        },
+        "prompt": "product design concept rendering of a pair of running shoes dissected into layered materials, macro detail of a joint, soft gradient studio backdrop, glazed stoneware, soft futurism art direction, everyday elegance, terra firma palette (#161009, #3D2A18, #7A5230, #B98A55), tactile surface microtexture, dust motes suspended in light, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting, exploded view on warm grey, precise lighting, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Anatomy of a Run",
+        "description": "A Pair Of Running Shoes Dissected Into Layered Materials — explored as a product design concept rendering in a soft futurism key. glazed stoneware carries the surface, while soft gradient studio backdrop. The terra firma palette (#161009 · #3D2A18 · #7A5230) holds the frame together; everyday elegance.",
+        "tags": [
+          "product design",
+          "pair",
+          "running",
+          "shoes",
+          "dissected",
+          "into",
+          "layered",
+          "materials",
+          "soft",
+          "futurism",
+          "terra firma",
+          "exploded",
+          "view",
+          "warm"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-4cde47ed"
+      }
+    },
+    {
+      "file": "31-industrial-design.jpg",
+      "idea": {
+        "categoryId": "industrial-design",
+        "subcategory": "technical brutalism",
+        "subject": "a compact electric utility vehicle for narrow streets",
+        "medium": "technical design drawing",
+        "aesthetic": "technical brutalism",
+        "lighting": "rim light on a dark industrial set",
+        "palette": {
+          "name": "Ice & Rust",
+          "hex": [
+            "#0C1013",
+            "#26333A",
+            "#5E7A85",
+            "#A9714B",
+            "#E4E0D6"
+          ]
+        },
+        "composition": "detail of a mechanism",
+        "material": "milled aluminum and matte composite",
+        "mood": "future utility",
+        "details": [
+          "precision machining marks",
+          "anamorphic bokeh"
+        ],
+        "ratio": {
+          "label": "3:2",
+          "w": 3,
+          "h": 2
+        },
+        "prompt": "technical design drawing of a compact electric utility vehicle for narrow streets, detail of a mechanism, rim light on a dark industrial set, milled aluminum and matte composite, technical brutalism art direction, future utility, ice & rust palette (#0C1013, #26333A, #5E7A85, #A9714B), precision machining marks, anamorphic bokeh, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting, industrial studio, rim light, dark background, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Narrow Utility",
+        "description": "A Compact Electric Utility Vehicle For Narrow Streets — explored as a technical design drawing in a technical brutalism key. milled aluminum and matte composite carries the surface, while rim light on a dark industrial set. The ice & rust palette (#0C1013 · #26333A · #5E7A85) holds the frame together; future utility.",
+        "tags": [
+          "industrial design",
+          "compact",
+          "electric",
+          "utility",
+          "vehicle",
+          "narrow",
+          "streets",
+          "technical",
+          "brutalism",
+          "ice & rust",
+          "industrial",
+          "studio",
+          "light",
+          "dark"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-564d2efa"
+      }
+    },
+    {
+      "file": "32-fashion.jpg",
+      "idea": {
+        "categoryId": "fashion",
+        "subcategory": "quiet luxury fashion",
+        "subject": "an oversized wool coat on a windswept rooftop",
+        "medium": "studio fashion portrait",
+        "aesthetic": "quiet luxury fashion",
+        "lighting": "overcast diffusion with a pale city behind",
+        "palette": {
+          "name": "Moss & Milk",
+          "hex": [
+            "#111311",
+            "#2C332B",
+            "#5B6A56",
+            "#C2C6B4",
+            "#F3F1E9"
+          ]
+        },
+        "composition": "movement blur in motion",
+        "material": "heavy wool and raw silk",
+        "mood": "confident elegance",
+        "details": [
+          "natural skin texture",
+          "natural skin texture"
+        ],
+        "ratio": {
+          "label": "2:3",
+          "w": 2,
+          "h": 3
+        },
+        "prompt": "studio fashion portrait of an oversized wool coat on a windswept rooftop, movement blur in motion, overcast diffusion with a pale city behind, heavy wool and raw silk, quiet luxury fashion art direction, confident elegance, moss & milk palette (#111311, #2C332B, #5B6A56, #C2C6B4), natural skin texture, tall 2:3 portrait composition, gallery-grade execution, extremely high detail, masterful lighting, overcast light, fabric drape, muted city behind, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Wool, Wind",
+        "description": "An Oversized Wool Coat On A Windswept Rooftop — explored as a studio fashion portrait in a quiet luxury fashion key. heavy wool and raw silk carries the surface, while overcast diffusion with a pale city behind. The moss & milk palette (#111311 · #2C332B · #5B6A56) holds the frame together; confident elegance.",
+        "tags": [
+          "fashion",
+          "oversized",
+          "wool",
+          "coat",
+          "windswept",
+          "rooftop",
+          "quiet",
+          "luxury",
+          "bone & graphite",
+          "overcast",
+          "light",
+          "fabric",
+          "drape"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-496044a2"
+      }
+    },
+    {
+      "file": "33-fashion.jpg",
+      "idea": {
+        "categoryId": "fashion",
+        "subcategory": "romantic maximalism",
+        "subject": "a bias-cut silk dress catching low evening sun",
+        "medium": "garment detail study",
+        "aesthetic": "romantic maximalism",
+        "lighting": "hard low sunlight with crisp shadows",
+        "palette": {
+          "name": "Rose Clay",
+          "hex": [
+            "#1B1211",
+            "#4E2A2B",
+            "#A96A64",
+            "#D8A9A0",
+            "#F4E3DA"
+          ]
+        },
+        "composition": "movement blur in motion",
+        "material": "bias-cut silk",
+        "mood": "sensual restraint",
+        "details": [
+          "fabric drape and weight",
+          "dust motes suspended in light"
+        ],
+        "ratio": {
+          "label": "4:5",
+          "w": 4,
+          "h": 5
+        },
+        "prompt": "garment detail study of a bias-cut silk dress catching low evening sun, movement blur in motion, hard low sunlight with crisp shadows, bias-cut silk, romantic maximalism art direction, sensual restraint, rose clay palette (#1B1211, #4E2A2B, #A96A64, #D8A9A0), fabric drape and weight, dust motes suspended in light, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting, hard sunlight, crisp shadow on plaster, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Bias Cut, Late Light",
+        "description": "A Bias-Cut Silk Dress Catching Low Evening Sun — explored as a garment detail study in a romantic maximalism key. bias-cut silk carries the surface, while hard low sunlight with crisp shadows. The rose clay palette (#1B1211 · #4E2A2B · #A96A64) holds the frame together; sensual restraint.",
+        "tags": [
+          "fashion",
+          "bias-cut",
+          "silk",
+          "dress",
+          "catching",
+          "evening",
+          "romantic",
+          "maximalism",
+          "rose clay",
+          "hard",
+          "sunlight",
+          "crisp",
+          "shadow"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-5af116e0"
+      }
+    },
+    {
+      "file": "34-streetwear.jpg",
+      "idea": {
+        "categoryId": "streetwear",
+        "subcategory": "90s skate nostalgia",
+        "subject": "a boxy heavyweight hoodie with an oversized back print, in a parking structure",
+        "medium": "lookbook spread",
+        "aesthetic": "90s skate nostalgia",
+        "lighting": "on-camera flash at night",
+        "palette": {
+          "name": "Paper Brutal",
+          "hex": [
+            "#111111",
+            "#2A2A2A",
+            "#6A6A66",
+            "#BDBDB4",
+            "#F4F1E8"
+          ]
+        },
+        "composition": "detail of hardware and stitching",
+        "material": "heavyweight fleece and concrete",
+        "mood": "raw energy",
+        "details": [
+          "garment-dyed fading",
+          "dust motes suspended in light"
+        ],
+        "ratio": {
+          "label": "4:5",
+          "w": 4,
+          "h": 5
+        },
+        "prompt": "lookbook spread of a boxy heavyweight hoodie with an oversized back print, in a parking structure, detail of hardware and stitching, on-camera flash at night, heavyweight fleece and concrete, 90s skate nostalgia art direction, raw energy, paper brutal palette (#111111, #2A2A2A, #6A6A66, #BDBDB4), garment-dyed fading, dust motes suspended in light, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting, on-camera flash at night, concrete, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Parking Structure Look",
+        "description": "A Boxy Heavyweight Hoodie With An Oversized Back Print, In A Parking Structure — explored as a lookbook spread in a 90s skate nostalgia key. heavyweight fleece and concrete carries the surface, while on-camera flash at night. The paper brutal palette (#111111 · #2A2A2A · #6A6A66) holds the frame together; raw energy.",
+        "tags": [
+          "streetwear",
+          "boxy",
+          "heavyweight",
+          "hoodie",
+          "with",
+          "oversized",
+          "back",
+          "print",
+          "skate",
+          "nostalgia",
+          "citrus static",
+          "on-camera",
+          "flash",
+          "night"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-c1676411"
+      }
+    },
+    {
+      "file": "35-illustration.jpg",
+      "idea": {
+        "categoryId": "illustration",
+        "subcategory": "folk-art warmth",
+        "subject": "a fox curled inside a teacup, gouache on textured paper",
+        "medium": "screen-printed illustration",
+        "aesthetic": "folk-art warmth",
+        "lighting": "flat illustrative light",
+        "palette": {
+          "name": "Terra Firma",
+          "hex": [
+            "#161009",
+            "#3D2A18",
+            "#7A5230",
+            "#B98A55",
+            "#E7CBA3"
+          ]
+        },
+        "composition": "off-center with generous white space",
+        "material": "gouache on textured paper",
+        "mood": "melancholic warmth",
+        "details": [
+          "textured paper grain",
+          "anamorphic bokeh"
+        ],
+        "ratio": {
+          "label": "1:1",
+          "w": 1,
+          "h": 1
+        },
+        "prompt": "screen-printed illustration of a fox curled inside a teacup, gouache on textured paper, off-center with generous white space, flat illustrative light, folk-art warmth art direction, melancholic warmth, terra firma palette (#161009, #3D2A18, #7A5230, #B98A55), textured paper grain, anamorphic bokeh, square 1:1 composition, gallery-grade execution, extremely high detail, masterful lighting, limited warm palette, visible brush strokes, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Teacup Fox",
+        "description": "A Fox Curled Inside A Teacup, Gouache On Textured Paper — explored as a screen-printed illustration in a folk-art warmth key. gouache on textured paper carries the surface, while flat illustrative light. The terra firma palette (#161009 · #3D2A18 · #7A5230) holds the frame together; melancholic warmth.",
+        "tags": [
+          "illustration",
+          "curled",
+          "inside",
+          "teacup",
+          "gouache",
+          "textured",
+          "paper",
+          "folk-art",
+          "warmth",
+          "terra firma",
+          "limited",
+          "warm",
+          "palette",
+          "visible"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-d31bc28a"
+      }
+    },
+    {
+      "file": "36-digital-art.jpg",
+      "idea": {
+        "categoryId": "digital-art",
+        "subcategory": "cosmic surrealism",
+        "subject": "a cathedral grown from coral, luminous and vast",
+        "medium": "matte painting",
+        "aesthetic": "cosmic surrealism",
+        "lighting": "bioluminescent glow with volumetric haze",
+        "palette": {
+          "name": "Teal Cinema",
+          "hex": [
+            "#070F12",
+            "#0F2A30",
+            "#1F5A5F",
+            "#C08A4E",
+            "#E8DCC4"
+          ]
+        },
+        "composition": "macro detail of a generative pattern",
+        "material": "translucent coral and mineral",
+        "mood": "digital reverie",
+        "details": [
+          "intricate surface detail",
+          "wet surfaces catching light"
+        ],
+        "ratio": {
+          "label": "16:9",
+          "w": 16,
+          "h": 9
+        },
+        "prompt": "matte painting of a cathedral grown from coral, luminous and vast, macro detail of a generative pattern, bioluminescent glow with volumetric haze, translucent coral and mineral, cosmic surrealism art direction, digital reverie, teal cinema palette (#070F12, #0F2A30, #1F5A5F, #C08A4E), intricate surface detail, wet surfaces catching light, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting, bioluminescent glow, volumetric haze, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Coral Cathedral",
+        "description": "A Cathedral Grown From Coral, Luminous And Vast — explored as a matte painting in a cosmic surrealism key. translucent coral and mineral carries the surface, while bioluminescent glow with volumetric haze. The teal cinema palette (#070F12 · #0F2A30 · #1F5A5F) holds the frame together; digital reverie.",
+        "tags": [
+          "digital art",
+          "cathedral",
+          "grown",
+          "from",
+          "coral",
+          "luminous",
+          "vast",
+          "cosmic",
+          "surrealism",
+          "neon rice paper",
+          "bioluminescent",
+          "glow",
+          "volumetric",
+          "haze"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-ea579162"
+      }
+    },
+    {
+      "file": "37-3d-art.jpg",
+      "idea": {
+        "categoryId": "3d-art",
+        "subcategory": "soft CGI surrealism",
+        "subject": "inflatable chrome shapes arranged in a warm studio",
+        "medium": "material study render",
+        "aesthetic": "soft CGI surrealism",
+        "lighting": "warm HDRI studio with large softboxes",
+        "palette": {
+          "name": "Mauve Domino",
+          "hex": [
+            "#100D11",
+            "#2C2230",
+            "#604867",
+            "#A98DA8",
+            "#EADFE5"
+          ]
+        },
+        "composition": "arrangement of repeated forms",
+        "material": "inflatable chrome and matte felt",
+        "mood": "playful sophistication",
+        "details": [
+          "physically accurate reflections",
+          "dust motes suspended in light"
+        ],
+        "ratio": {
+          "label": "1:1",
+          "w": 1,
+          "h": 1
+        },
+        "prompt": "material study render of inflatable chrome shapes arranged in a warm studio, arrangement of repeated forms, warm HDRI studio with large softboxes, inflatable chrome and matte felt, soft CGI surrealism art direction, playful sophistication, mauve domino palette (#100D11, #2C2230, #604867, #A98DA8), physically accurate reflections, dust motes suspended in light, square 1:1 composition, gallery-grade execution, extremely high detail, masterful lighting, softbox reflections, physical accuracy, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Chrome Bloom",
+        "description": "Inflatable Chrome Shapes Arranged In A Warm Studio — explored as a material study render in a soft CGI surrealism key. inflatable chrome and matte felt carries the surface, while warm HDRI studio with large softboxes. The mauve domino palette (#100D11 · #2C2230 · #604867) holds the frame together; playful sophistication.",
+        "tags": [
+          "3d art",
+          "inflatable",
+          "chrome",
+          "shapes",
+          "arranged",
+          "warm",
+          "studio",
+          "soft",
+          "surrealism",
+          "bone & graphite",
+          "softbox",
+          "reflections",
+          "physical",
+          "accuracy"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-de550a88"
+      }
+    },
+    {
+      "file": "38-experimental-design.jpg",
+      "idea": {
+        "categoryId": "experimental-design",
+        "subcategory": "speculative design",
+        "subject": "a book whose pages are made of thin glass, documented in a gallery",
+        "medium": "generative art composition",
+        "aesthetic": "speculative design",
+        "lighting": "controlled gallery lighting",
+        "palette": {
+          "name": "Ice & Rust",
+          "hex": [
+            "#0C1013",
+            "#26333A",
+            "#5E7A85",
+            "#A9714B",
+            "#E4E0D6"
+          ]
+        },
+        "composition": "documented process sequence",
+        "material": "thin glass pages",
+        "mood": "productive unease",
+        "details": [
+          "evidence of process",
+          "warm color grading with lifted shadows"
+        ],
+        "ratio": {
+          "label": "3:4",
+          "w": 3,
+          "h": 4
+        },
+        "prompt": "generative art composition of a book whose pages are made of thin glass, documented in a gallery, documented process sequence, controlled gallery lighting, thin glass pages, speculative design art direction, productive unease, ice & rust palette (#0C1013, #26333A, #5E7A85, #A9714B), evidence of process, warm color grading with lifted shadows, vertical 3:4 composition, gallery-grade execution, extremely high detail, masterful lighting, gallery light, label beside the object, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Glass Pages",
+        "description": "A Book Whose Pages Are Made Of Thin Glass, Documented In A Gallery — explored as a generative art composition in a speculative design key. thin glass pages carries the surface, while controlled gallery lighting. The ice & rust palette (#0C1013 · #26333A · #5E7A85) holds the frame together; productive unease.",
+        "tags": [
+          "experimental design",
+          "book",
+          "whose",
+          "pages",
+          "made",
+          "thin",
+          "glass",
+          "documented",
+          "speculative",
+          "design",
+          "paper brutal",
+          "gallery",
+          "light",
+          "label"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-4a327e53"
+      }
+    },
+    {
+      "file": "39-minimalism.jpg",
+      "idea": {
+        "categoryId": "minimalism",
+        "subcategory": "monastic restraint",
+        "subject": "one chair in an enormous empty concrete room, a pool of light on the floor",
+        "medium": "minimalist composition",
+        "aesthetic": "monastic restraint",
+        "lighting": "one soft pool of daylight on the floor",
+        "palette": {
+          "name": "Bone & Graphite",
+          "hex": [
+            "#141312",
+            "#33312E",
+            "#6E6A64",
+            "#B9B2A6",
+            "#EFEAE1"
+          ]
+        },
+        "composition": "subject at the far third",
+        "material": "raw plaster and pale concrete",
+        "mood": "contemplation",
+        "details": [
+          "perfect surface finish",
+          "condensation beads"
+        ],
+        "ratio": {
+          "label": "16:9",
+          "w": 16,
+          "h": 9
+        },
+        "prompt": "minimalist composition of one chair in an enormous empty concrete room, a pool of light on the floor, subject at the far third, one soft pool of daylight on the floor, raw plaster and pale concrete, monastic restraint art direction, contemplation, bone & graphite palette (#141312, #33312E, #6E6A64, #B9B2A6), perfect surface finish, condensation beads, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting, vast negative space, single shadow, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "One Chair",
+        "description": "One Chair In An Enormous Empty Concrete Room, A Pool Of Light On The Floor — explored as a minimalist composition in a monastic restraint key. raw plaster and pale concrete carries the surface, while one soft pool of daylight on the floor. The bone & graphite palette (#141312 · #33312E · #6E6A64) holds the frame together; contemplation.",
+        "tags": [
+          "minimalism",
+          "chair",
+          "enormous",
+          "empty",
+          "concrete",
+          "room",
+          "pool",
+          "light",
+          "monastic",
+          "restraint",
+          "moss & milk",
+          "vast",
+          "negative",
+          "space"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-f2f85d2"
+      }
+    },
+    {
+      "file": "40-brutalism.jpg",
+      "idea": {
+        "categoryId": "brutalism",
+        "subcategory": "raw brutalism",
+        "subject": "a raw concrete housing estate at dawn, balconies cutting hard shadows",
+        "medium": "brutalist graphic design",
+        "aesthetic": "raw brutalism",
+        "lighting": "hard overcast dawn with orange streetlights",
+        "palette": {
+          "name": "Warm Concrete",
+          "hex": [
+            "#1A1613",
+            "#4A4038",
+            "#8C7B6B",
+            "#C4B5A2",
+            "#EFE6D8"
+          ]
+        },
+        "composition": "shadow-cut geometric crop",
+        "material": "raw board-formed concrete",
+        "mood": "raw honesty",
+        "details": [
+          "formwork grain",
+          "warm color grading with lifted shadows"
+        ],
+        "ratio": {
+          "label": "4:5",
+          "w": 4,
+          "h": 5
+        },
+        "prompt": "brutalist graphic design of a raw concrete housing estate at dawn, balconies cutting hard shadows, shadow-cut geometric crop, hard overcast dawn with orange streetlights, raw board-formed concrete, raw brutalism art direction, raw honesty, warm concrete palette (#1A1613, #4A4038, #8C7B6B, #C4B5A2), formwork grain, warm color grading with lifted shadows, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting, hard overcast light, orange streetlights, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Estate at Dawn",
+        "description": "A Raw Concrete Housing Estate At Dawn, Balconies Cutting Hard Shadows — explored as a brutalist graphic design in a raw brutalism key. raw board-formed concrete carries the surface, while hard overcast dawn with orange streetlights. The warm concrete palette (#1A1613 · #4A4038 · #8C7B6B) holds the frame together; raw honesty.",
+        "tags": [
+          "brutalism",
+          "concrete",
+          "housing",
+          "estate",
+          "dawn",
+          "balconies",
+          "cutting",
+          "hard",
+          "bone & graphite",
+          "overcast",
+          "light",
+          "orange"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-77796d60"
+      }
+    },
+    {
+      "file": "41-futurism.jpg",
+      "idea": {
+        "categoryId": "futurism",
+        "subcategory": "quiet sci-fi",
+        "subject": "a lunar greenhouse with mirrored petals unfolding",
+        "medium": "speculative product visualization",
+        "aesthetic": "quiet sci-fi",
+        "lighting": "harsh unfiltered sun with long shadow",
+        "palette": {
+          "name": "Slate Bloom",
+          "hex": [
+            "#0C0E12",
+            "#242B36",
+            "#4F5D72",
+            "#9AA6B8",
+            "#E6E9EF"
+          ]
+        },
+        "composition": "human-scale in vast infrastructure",
+        "material": "mirrored petals and regolith dust",
+        "mood": "cautious optimism",
+        "details": [
+          "integrated vegetation",
+          "fine 35mm grain"
+        ],
+        "ratio": {
+          "label": "16:9",
+          "w": 16,
+          "h": 9
+        },
+        "prompt": "speculative product visualization of a lunar greenhouse with mirrored petals unfolding, human-scale in vast infrastructure, harsh unfiltered sun with long shadow, mirrored petals and regolith dust, quiet sci-fi art direction, cautious optimism, slate bloom palette (#0C0E12, #242B36, #4F5D72, #9AA6B8), integrated vegetation, fine 35mm grain, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting, harsh sun, long shadows, dust, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Lunar Greenhouse",
+        "description": "A Lunar Greenhouse With Mirrored Petals Unfolding — explored as a speculative product visualization in a quiet sci-fi key. mirrored petals and regolith dust carries the surface, while harsh unfiltered sun with long shadow. The slate bloom palette (#0C0E12 · #242B36 · #4F5D72) holds the frame together; cautious optimism.",
+        "tags": [
+          "futurism",
+          "lunar",
+          "greenhouse",
+          "with",
+          "mirrored",
+          "petals",
+          "unfolding",
+          "quiet",
+          "sci-fi",
+          "cobalt signal",
+          "harsh",
+          "long",
+          "shadows",
+          "dust"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-389f0fe8"
+      }
+    },
+    {
+      "file": "42-retro-aesthetics.jpg",
+      "idea": {
+        "categoryId": "retro-aesthetics",
+        "subcategory": "70s earth tones",
+        "subject": "a 1970s travel brochure for an imaginary island, flat color printing",
+        "medium": "vintage-inspired design artifact",
+        "aesthetic": "70s earth tones",
+        "lighting": "period-correct studio light",
+        "palette": {
+          "name": "Citrus Static",
+          "hex": [
+            "#0D0F0A",
+            "#2E3517",
+            "#8A9B2C",
+            "#D9D44A",
+            "#F4F0C8"
+          ]
+        },
+        "composition": "product hero with period props",
+        "material": "molded plastic",
+        "mood": "nostalgic pleasure",
+        "details": [
+          "print registration",
+          "wet surfaces catching light"
+        ],
+        "ratio": {
+          "label": "4:5",
+          "w": 4,
+          "h": 5
+        },
+        "prompt": "vintage-inspired design artifact of a 1970s travel brochure for an imaginary island, flat color printing, product hero with period props, period-correct studio light, molded plastic, 70s earth tones art direction, nostalgic pleasure, citrus static palette (#0D0F0A, #2E3517, #8A9B2C, #D9D44A), print registration, wet surfaces catching light, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting, halftone print, burnt orange and avocado, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Isle of Elsewhere",
+        "description": "A 1970s Travel Brochure For An Imaginary Island, Flat Color Printing — explored as a vintage-inspired design artifact in a 70s earth tones key. molded plastic carries the surface, while period-correct studio light. The citrus static palette (#0D0F0A · #2E3517 · #8A9B2C) holds the frame together; nostalgic pleasure.",
+        "tags": [
+          "retro aesthetics",
+          "1970s",
+          "travel",
+          "brochure",
+          "imaginary",
+          "island",
+          "flat",
+          "color",
+          "earth",
+          "tones",
+          "citrus static",
+          "halftone",
+          "print",
+          "burnt"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-ce4db5f3"
+      }
+    },
+    {
+      "file": "43-nature.jpg",
+      "idea": {
+        "categoryId": "nature",
+        "subcategory": "quiet macro",
+        "subject": "a single fern unfurling in fog, macro",
+        "medium": "environmental portrait of a landscape element",
+        "aesthetic": "quiet macro",
+        "lighting": "morning mist with soft backlight",
+        "palette": {
+          "name": "Forest Glass",
+          "hex": [
+            "#0A100C",
+            "#182A1E",
+            "#365C41",
+            "#83A47E",
+            "#DCE5CE"
+          ]
+        },
+        "composition": "specimen centered on neutral ground",
+        "material": "translucent fern frond and dew",
+        "mood": "wonder",
+        "details": [
+          "fine hairs on stems",
+          "specular highlights on glazed ceramic"
+        ],
+        "ratio": {
+          "label": "4:5",
+          "w": 4,
+          "h": 5
+        },
+        "prompt": "environmental portrait of a landscape element of a single fern unfurling in fog, macro, specimen centered on neutral ground, morning mist with soft backlight, translucent fern frond and dew, quiet macro art direction, wonder, forest glass palette (#0A100C, #182A1E, #365C41, #83A47E), fine hairs on stems, specular highlights on glazed ceramic, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting, morning mist, dew, shallow depth of field, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Unfurl",
+        "description": "A Single Fern Unfurling In Fog, Macro — explored as a environmental portrait of a landscape element in a quiet macro key. translucent fern frond and dew carries the surface, while morning mist with soft backlight. The forest glass palette (#0A100C · #182A1E · #365C41) holds the frame together; wonder.",
+        "tags": [
+          "nature",
+          "single",
+          "fern",
+          "unfurling",
+          "macro",
+          "quiet",
+          "moss & milk",
+          "morning",
+          "mist",
+          "shallow",
+          "depth"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-6f016dad"
+      }
+    },
+    {
+      "file": "44-landscapes.jpg",
+      "idea": {
+        "categoryId": "landscapes",
+        "subcategory": "aerial abstraction",
+        "subject": "salt flats cracked into a geometric grid, seen from altitude",
+        "medium": "atmospheric environmental photograph",
+        "aesthetic": "aerial abstraction",
+        "lighting": "first light grazing the surface",
+        "palette": {
+          "name": "Ice & Rust",
+          "hex": [
+            "#0C1013",
+            "#26333A",
+            "#5E7A85",
+            "#A9714B",
+            "#E4E0D6"
+          ]
+        },
+        "composition": "layered depth with haze",
+        "material": "cracked salt crust",
+        "mood": "elemental awe",
+        "details": [
+          "long exposure softness",
+          "soft vignette"
+        ],
+        "ratio": {
+          "label": "16:9",
+          "w": 16,
+          "h": 9
+        },
+        "prompt": "atmospheric environmental photograph of salt flats cracked into a geometric grid, seen from altitude, layered depth with haze, first light grazing the surface, cracked salt crust, aerial abstraction art direction, elemental awe, ice & rust palette (#0C1013, #26333A, #5E7A85, #A9714B), long exposure softness, soft vignette, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting, first light, tiny scale cues, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Salt Grid",
+        "description": "Salt Flats Cracked Into A Geometric Grid, Seen From Altitude — explored as a atmospheric environmental photograph in a aerial abstraction key. cracked salt crust carries the surface, while first light grazing the surface. The ice & rust palette (#0C1013 · #26333A · #5E7A85) holds the frame together; elemental awe.",
+        "tags": [
+          "landscapes",
+          "salt",
+          "flats",
+          "cracked",
+          "into",
+          "geometric",
+          "grid",
+          "seen",
+          "aerial",
+          "abstraction",
+          "sand & ink",
+          "first",
+          "light",
+          "tiny"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-452f4147"
+      }
+    },
+    {
+      "file": "45-abstract-art.jpg",
+      "idea": {
+        "categoryId": "abstract-art",
+        "subcategory": "color-field lyricism",
+        "subject": "pigment blooming in water, warm tones",
+        "medium": "material abstraction photograph",
+        "aesthetic": "color-field lyricism",
+        "lighting": "macro backlight through the liquid",
+        "palette": {
+          "name": "Rose Clay",
+          "hex": [
+            "#1B1211",
+            "#4E2A2B",
+            "#A96A64",
+            "#D8A9A0",
+            "#F4E3DA"
+          ]
+        },
+        "composition": "all-over composition",
+        "material": "pigment blooming in water",
+        "mood": "sensory immersion",
+        "details": [
+          "subtle surface cracks",
+          "shallow depth of field falloff"
+        ],
+        "ratio": {
+          "label": "1:1",
+          "w": 1,
+          "h": 1
+        },
+        "prompt": "material abstraction photograph of pigment blooming in water, warm tones, all-over composition, macro backlight through the liquid, pigment blooming in water, color-field lyricism art direction, sensory immersion, rose clay palette (#1B1211, #4E2A2B, #A96A64, #D8A9A0), subtle surface cracks, shallow depth of field falloff, square 1:1 composition, gallery-grade execution, extremely high detail, masterful lighting, macro, translucent layers, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Bloom Study",
+        "description": "Pigment Blooming In Water, Warm Tones — explored as a material abstraction photograph in a color-field lyricism key. pigment blooming in water carries the surface, while macro backlight through the liquid. The rose clay palette (#1B1211 · #4E2A2B · #A96A64) holds the frame together; sensory immersion.",
+        "tags": [
+          "abstract art",
+          "pigment",
+          "blooming",
+          "water",
+          "warm",
+          "tones",
+          "color-field",
+          "lyricism",
+          "ember dusk",
+          "macro",
+          "translucent",
+          "layers"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-93ccac91"
+      }
+    },
+    {
+      "file": "46-color-palettes.jpg",
+      "idea": {
+        "categoryId": "color-palettes",
+        "subcategory": "chromatic minimalism",
+        "subject": "five paint swatches arranged with precision, sampled from dusk light",
+        "medium": "gradient artwork",
+        "aesthetic": "chromatic minimalism",
+        "lighting": "controlled neutral studio light",
+        "palette": {
+          "name": "Ember Dusk",
+          "hex": [
+            "#0F0B09",
+            "#3B1E14",
+            "#B4573B",
+            "#E8935B",
+            "#F3D9B1"
+          ]
+        },
+        "composition": "single accent against neutral",
+        "material": "painted paper swatches",
+        "mood": "systematic calm",
+        "details": [
+          "subtle hue shifts",
+          "precise registration marks"
+        ],
+        "ratio": {
+          "label": "3:2",
+          "w": 3,
+          "h": 2
+        },
+        "prompt": "gradient artwork of five paint swatches arranged with precision, sampled from dusk light, single accent against neutral, controlled neutral studio light, painted paper swatches, chromatic minimalism art direction, systematic calm, ember dusk palette (#0F0B09, #3B1E14, #B4573B, #E8935B), subtle hue shifts, precise registration marks, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting, visible brush edges, paper tooth, no legible text, no watermark, no signage",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Dusk, Five Ways",
+        "description": "Five Paint Swatches Arranged With Precision, Sampled From Dusk Light — explored as a gradient artwork in a chromatic minimalism key. painted paper swatches carries the surface, while controlled neutral studio light. The ember dusk palette (#0F0B09 · #3B1E14 · #B4573B) holds the frame together; systematic calm.",
+        "tags": [
+          "color palettes",
+          "five",
+          "paint",
+          "swatches",
+          "arranged",
+          "with",
+          "precision",
+          "sampled",
+          "chromatic",
+          "minimalism",
+          "saffron concrete",
+          "visible",
+          "brush",
+          "edges"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-e8cf8890"
+      }
+    },
+    {
+      "file": "47-packaging.jpg",
+      "idea": {
+        "categoryId": "packaging",
+        "subcategory": "quiet luxury packaging",
+        "subject": "a ceramic bottle in a molded pulp shell",
+        "medium": "packaging system on shelf",
+        "aesthetic": "quiet luxury packaging",
+        "lighting": "soft daylight with gentle shadow",
+        "palette": {
+          "name": "Sand & Ink",
+          "hex": [
+            "#100F0C",
+            "#2B2A22",
+            "#6B6552",
+            "#C9BD9E",
+            "#F5EEDD"
+          ]
+        },
+        "composition": "in-situ on a retail shelf",
+        "material": "molded pulp and glazed stoneware",
+        "mood": "considered sustainability",
+        "details": [
+          "structural folds",
+          "hand-inked edges"
+        ],
+        "ratio": {
+          "label": "4:5",
+          "w": 4,
+          "h": 5
+        },
+        "prompt": "packaging system on shelf of a ceramic bottle in a molded pulp shell, in-situ on a retail shelf, soft daylight with gentle shadow, molded pulp and glazed stoneware, quiet luxury packaging art direction, considered sustainability, sand & ink palette (#100F0C, #2B2A22, #6B6552, #C9BD9E), structural folds, hand-inked edges, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting, soft daylight, gentle shadow, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Pulp & Ceramic",
+        "description": "A Ceramic Bottle In A Molded Pulp Shell — explored as a packaging system on shelf in a quiet luxury packaging key. molded pulp and glazed stoneware carries the surface, while soft daylight with gentle shadow. The sand & ink palette (#100F0C · #2B2A22 · #6B6552) holds the frame together; considered sustainability.",
+        "tags": [
+          "packaging",
+          "ceramic",
+          "bottle",
+          "molded",
+          "pulp",
+          "shell",
+          "quiet",
+          "luxury",
+          "forest glass",
+          "soft",
+          "daylight",
+          "gentle",
+          "shadow"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-64fd634"
+      }
+    },
+    {
+      "file": "48-creative-advertising.jpg",
+      "idea": {
+        "categoryId": "creative-advertising",
+        "subcategory": "conceptual advertising",
+        "subject": "a running shoe so light it floats on still water",
+        "medium": "conceptual advertising photograph",
+        "aesthetic": "conceptual advertising",
+        "lighting": "dramatic single source",
+        "palette": {
+          "name": "Amber Dusk",
+          "hex": [
+            "#120D08",
+            "#3A2410",
+            "#8A531A",
+            "#D89A45",
+            "#F6E3BD"
+          ]
+        },
+        "composition": "single idea centered with copy space",
+        "material": "miniatures",
+        "mood": "visual surprise",
+        "details": [
+          "copy space reserved",
+          "letterpress bite into cotton stock"
+        ],
+        "ratio": {
+          "label": "3:2",
+          "w": 3,
+          "h": 2
+        },
+        "prompt": "conceptual advertising photograph of a running shoe so light it floats on still water, single idea centered with copy space, dramatic single source, miniatures, conceptual advertising art direction, visual surprise, amber dusk palette (#120D08, #3A2410, #8A531A, #D89A45), copy space reserved, letterpress bite into cotton stock, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting, studio key light, copy space, immaculate retouching, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Weightless",
+        "description": "A Running Shoe So Light It Floats On Still Water — explored as a conceptual advertising photograph in a conceptual advertising key. miniatures carries the surface, while dramatic single source. The amber dusk palette (#120D08 · #3A2410 · #8A531A) holds the frame together; visual surprise.",
+        "tags": [
+          "creative advertising",
+          "running",
+          "shoe",
+          "light",
+          "floats",
+          "still",
+          "water",
+          "conceptual",
+          "advertising",
+          "amber dusk",
+          "studio",
+          "copy",
+          "space"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-96866f0c"
+      }
+    },
+    {
+      "file": "49-motion-design.jpg",
+      "idea": {
+        "categoryId": "motion-design",
+        "subcategory": "kinetic modernism",
+        "subject": "a kinetic typography frame where letters become architecture",
+        "medium": "frame from a motion design piece",
+        "aesthetic": "kinetic modernism",
+        "lighting": "rendered glow",
+        "palette": {
+          "name": "Sodium Night",
+          "hex": [
+            "#0B0D10",
+            "#151F26",
+            "#2E4A52",
+            "#C98A3E",
+            "#F2C879"
+          ]
+        },
+        "composition": "motion-blurred multiple exposure",
+        "material": "motion blur",
+        "mood": "kinetic energy",
+        "details": [
+          "trailing afterimages",
+          "dust motes suspended in light"
+        ],
+        "ratio": {
+          "label": "16:9",
+          "w": 16,
+          "h": 9
+        },
+        "prompt": "frame from a motion design piece of a kinetic typography frame where letters become architecture, motion-blurred multiple exposure, rendered glow, motion blur, kinetic modernism art direction, kinetic energy, sodium night palette (#0B0D10, #151F26, #2E4A52, #C98A3E), trailing afterimages, dust motes suspended in light, wide 16:9 composition, gallery-grade execution, extremely high detail, masterful lighting, directional blur trails, warm glow, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Type in Motion",
+        "description": "A Kinetic Typography Frame Where Letters Become Architecture — explored as a frame from a motion design piece in a kinetic modernism key. motion blur carries the surface, while rendered glow. The sodium night palette (#0B0D10 · #151F26 · #2E4A52) holds the frame together; kinetic energy.",
+        "tags": [
+          "motion design concepts",
+          "kinetic",
+          "typography",
+          "frame",
+          "where",
+          "letters",
+          "become",
+          "architecture",
+          "modernism",
+          "sodium night",
+          "directional",
+          "blur",
+          "trails",
+          "warm"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-536a4d9e"
+      }
+    },
+    {
+      "file": "50-conceptual-art.jpg",
+      "idea": {
+        "categoryId": "conceptual-art",
+        "subcategory": "poetic systems",
+        "subject": "a dictionary with every noun removed, displayed on a plinth",
+        "medium": "documentation of a conceptual gesture",
+        "aesthetic": "poetic systems",
+        "lighting": "institutional gallery lighting",
+        "palette": {
+          "name": "Bone & Graphite",
+          "hex": [
+            "#141312",
+            "#33312E",
+            "#6E6A64",
+            "#B9B2A6",
+            "#EFEAE1"
+          ]
+        },
+        "composition": "typographic proposition",
+        "material": "paper, ink and museum board",
+        "mood": "poetic unease",
+        "details": [
+          "a single pointed gesture",
+          "soft vignette"
+        ],
+        "ratio": {
+          "label": "4:5",
+          "w": 4,
+          "h": 5
+        },
+        "prompt": "documentation of a conceptual gesture of a dictionary with every noun removed, displayed on a plinth, typographic proposition, institutional gallery lighting, paper, ink and museum board, poetic systems art direction, poetic unease, bone & graphite palette (#141312, #33312E, #6E6A64, #B9B2A6), a single pointed gesture, soft vignette, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting, institutional lighting, small museum label, no watermark, no signature",
+        "negativePrompt": "stock-photo look, watermark, logo, brand name, signature, text artifacts, garbled lettering, low resolution, jpeg artifacts, oversaturated colors, plastic skin, cluttered composition, cheap 3D render, generic corporate aesthetic, duplicate framing, blurry subject, distorted anatomy, extra fingers, uncanny faces",
+        "title": "Missing Nouns",
+        "description": "A Dictionary With Every Noun Removed, Displayed On A Plinth — explored as a documentation of a conceptual gesture in a poetic systems key. paper, ink and museum board carries the surface, while institutional gallery lighting. The bone & graphite palette (#141312 · #33312E · #6E6A64) holds the frame together; poetic unease.",
+        "tags": [
+          "conceptual art",
+          "dictionary",
+          "with",
+          "every",
+          "noun",
+          "removed",
+          "displayed",
+          "plinth",
+          "poetic",
+          "systems",
+          "paper brutal",
+          "institutional",
+          "lighting",
+          "small"
+        ],
+        "novelty": 1,
+        "fingerprint": "seed-77611a6e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+node_modules
+.next
+out
+.env
+.env.local
+.env*.local
+*.tsbuildinfo
+data/*.db
+data/*.db-shm
+data/*.db-wal
+storage/manifests/*
+!storage/manifests/.gitkeep
+.seed/tmp
+.DS_Store
+npm-debug.log*
+.seed/prompts-*.json
+.seed/prompts-*.csv
