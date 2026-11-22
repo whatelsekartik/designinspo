@@ -1,0 +1,75 @@
+{
+ "createdAt": "batch-10",
+ "items": [
+  {
+   "file": "89-minimalism.jpg",
+   "prompt": "minimalist photograph of a single thread across a dark plane, symmetrical emptiness, flat diffuse grey, concrete, slick tech optimism art direction, contemplation, paper brutal palette (#111111, #2A2A2A, #6A6A66, #BDBDB4), condensation beads, a single shadow, matte film rendering, horizontal 3:2 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Dark Field",
+   "categoryId": "minimalism",
+   "aspect": 1.5
+  },
+  {
+   "file": "90-motion-design.jpg",
+   "prompt": "kinetic typography still of a brand logo resolving from particles, motion-blurred multiple exposure, projected light, film texture, soft-focus nostalgia art direction, playful rhythm, cobalt signal palette (#080C16, #13224A, #2D4EA8, #7C93D8), anamorphic bokeh, natural skin texture, dust motes suspended in light, square 1:1 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Low Particles",
+   "categoryId": "motion-design",
+   "aspect": 1
+  },
+  {
+   "file": "91-nature.jpg",
+   "prompt": "botanical study of a tide pool seen from directly above, pattern repetition, early morning mist light, water, editorial modernism art direction, wonder, olive studio palette (#12140F, #2C3324, #5E6B47, #A9B08A), fine 35mm grain, anamorphic bokeh, cellular patterns, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Deep Pool",
+   "categoryId": "nature",
+   "aspect": 0.8
+  },
+  {
+   "file": "92-packaging.jpg",
+   "prompt": "product packaging flat-lay of a chocolate bar wrapper with letterpress texture, flat-lay of unboxed components, dramatic single-source on a dark set, recycled board, archival film art direction, considered sustainability, oxblood paper palette (#221413, #5B2126, #9C3B3F, #D9B4A0), delicate paper texture, halftone dot gradient, extreme vertical 9:16 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Letterpress Field",
+   "categoryId": "packaging",
+   "aspect": 0.5625
+  },
+  {
+   "file": "93-posters.jpg",
+   "prompt": "poster design of a book fair poster of stacked spines, full-bleed typographic poster, sun-faded outdoor wall, fluorescent spot color, hand-crafted imperfection art direction, print romance, neon rice paper palette (#0A0A0C, #1B1B26, #5A49A8, #D9557E), a single bold rule, a single fluorescent accent, hand-inked edges, landscape 5:4 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Still Book",
+   "categoryId": "posters",
+   "aspect": 1.25
+  },
+  {
+   "file": "94-retro-aesthetics.jpg",
+   "prompt": "retro-style photograph of a 1980s perfume advert with hard flash, interior vignette, period-correct studio light, chrome, mid-century optimism art direction, nostalgic pleasure, oxblood paper palette (#221413, #5B2126, #9C3B3F, #D9B4A0), condensation beads, dust motes suspended in light, color fade, square 1:1 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Felted Hard",
+   "categoryId": "retro-aesthetics",
+   "aspect": 1
+  },
+  {
+   "file": "95-streetwear.jpg",
+   "prompt": "streetwear editorial photograph of a skate crew in a derelict parking structure, detail of hardware and stitching, hard midday sun on concrete, distressed denim, Japanese street fashion art direction, raw energy, citrus static palette (#0D0F0A, #2E3517, #8A9B2C, #D9D44A), wet surfaces catching light, warm color grading with lifted shadows, square 1:1 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Parking Notes",
+   "categoryId": "streetwear",
+   "aspect": 1
+  },
+  {
+   "file": "96-typography.jpg",
+   "prompt": "type specimen design of a variable typeface stretched to its widest instance, baseline-driven grid, flat document light, carved plaster, mid-century optimism art direction, formal elegance, bone & graphite palette (#141312, #33312E, #6E6A64, #B9B2A6), risograph misregistration, delicate paper texture, whisper-thin hairline rules, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Deep Widest",
+   "categoryId": "typography",
+   "aspect": 0.8
+  },
+  {
+   "file": "97-web-design.jpg",
+   "prompt": "editorial website concept composition of a type foundry specimen page with variable weight sliders, desktop hero with generous negative space, soft ambient glow from the screen, visible typographic grid, raw documentary art direction, editorial luxury, sand & ink palette (#100F0C, #2B2A22, #6B6552, #C9BD9E), whisper-thin hairline rules, hand-inked edges, monospace metadata labels, vertical 4:5 portrait composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Sunken Page",
+   "categoryId": "web-design",
+   "aspect": 0.8
+  },
+  {
+   "file": "98-3d-art.jpg",
+   "prompt": "3D render of a stack of translucent resin disks, centered object on a seamless backdrop, single dramatic rim light, iridescent film, sun-bleached nostalgia art direction, material fascination, bone & graphite palette (#141312, #33312E, #6E6A64, #B9B2A6), physically accurate reflections, soft halation on highlights, square 1:1 composition, gallery-grade execution, extremely high detail, masterful lighting",
+   "title": "Faded Disks",
+   "categoryId": "3d-art",
+   "aspect": 1
+  }
+ ]
+}
